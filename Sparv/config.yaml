@@ -1,0 +1,26 @@
+swener:
+  binary: /usr/local/bin/hfst-swener
+classes:
+  token:baseform: <token>:stanza.baseform
+  token:msd: <token>:stanza.msd
+  token:pos: <token>:stanza.pos
+export:
+  annotations:
+  - <token>:stanza.baseform
+  - <token>:saldo.baseform
+  - <token>:misc.upos
+  - <token>
+  - segment.sentence
+  - segment.token
+  - swener.ne
+  - swener.ne:swener.ex
+  - swener.ne:swener.type
+  - swener.ne:swener.subtype
+  - swener.ne:swener.name
+import:
+  importer: xml_import:parse
+metadata:
+  id: known
+  language: swe
+  name:
+    eng: known

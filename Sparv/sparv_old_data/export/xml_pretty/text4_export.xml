@@ -1,0 +1,2167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text lix="62.75" nk="1.72" ovix="85.79">
+  <sentence>
+    <token saldo.baseform="|metamorfos|" stanza.baseform="metamorfos" upos="NOUN">METAMORFOS</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|inom|" stanza.baseform="inom" upos="ADP">Inom</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|romantisk|" stanza.baseform="romantisk" upos="ADJ">romantiska</token>
+    <token saldo.baseform="|rörelse|" stanza.baseform="rörelse" upos="NOUN">rörelsen</token>
+    <ne ex="TIMEX" name="i 50-talets" subtype="DAT" type="TME">
+      <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+      <token saldo.baseform="|50-tal|" stanza.baseform="50-tal" upos="NOUN">50-talets</token>
+    </ne>
+    <token saldo.baseform="|litteratur|" stanza.baseform="litteratur" upos="NOUN">litteratur</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">var</token>
+    <token saldo.baseform="|individ|" stanza.baseform="individ" upos="NOUN">individens</token>
+    <token saldo.baseform="|erfarenhet|" stanza.baseform="erfarenhet" upos="NOUN">erfarenhet</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|upplevelse|" stanza.baseform="upplevelse" upos="NOUN">upplevelse</token>
+    <token saldo.baseform="|avgöra|avgörande|" stanza.baseform="avgörande" upos="VERB">avgörande</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <ne ex="ENAMEX" name="Paul Tenngart" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Paul|" stanza.baseform="Paul" upos="PROPN">Paul</token>
+      <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngart</token>
+    </ne>
+    <token saldo.baseform="|ha|" stanza.baseform="ha" upos="VERB">har</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|ny|" stanza.baseform="ny" upos="ADJ">ny</token>
+    <token saldo.baseform="|bok|" stanza.baseform="bok" upos="NOUN">bok</token>
+    <token saldo.baseform="|studera|" stanza.baseform="studera" upos="VERB">studerat</token>
+    <token saldo.baseform="|utveckling|" stanza.baseform="utveckling" upos="NOUN">utvecklingen</token>
+    <token saldo.baseform="|hos|" stanza.baseform="hos" upos="ADP">hos</token>
+    <token saldo.baseform="|fem|" stanza.baseform="fem" upos="NUM">fem</token>
+    <token saldo.baseform="|författare|" stanza.baseform="författare" upos="NOUN">författare</token>
+    <token saldo.baseform="|knuten|knyta|" stanza.baseform="knuten" upos="VERB">knutna</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|" stanza.baseform="metamorfosgrupp" upos="NOUN">Metamorfosgruppen</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">I</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|känd|känna|" stanza.baseform="känd" upos="VERB">känd</token>
+    <token saldo.baseform="|essä|" stanza.baseform="essä" upos="NOUN">essä</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|titel|" stanza.baseform="titel" upos="NOUN">titeln</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">Den</token>
+    <token saldo.baseform="|modern|" stanza.baseform="modern" upos="ADJ">moderna</token>
+    <token saldo.baseform="|pessimism|" stanza.baseform="pessimism" upos="NOUN">pessimismen</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|den|" stanza.baseform="dess" upos="DET">dess</token>
+    <token saldo.baseform="|vedersakare|" stanza.baseform="vedersakare" upos="NOUN">vedersakare</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|skriva|" stanza.baseform="skriva" upos="VERB">skriver</token>
+    <ne ex="ENAMEX" name="Karl Vennberg" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Karl|" stanza.baseform="Karl" upos="PROPN">Karl</token>
+      <token saldo.baseform="|" stanza.baseform="Vennberg" upos="PROPN">Vennberg</token>
+    </ne>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|hur|" stanza.baseform="hur" upos="ADV">hur</token>
+    <token saldo.baseform="|" stanza.baseform="illa" upos="ADV">illa</token>
+    <token saldo.baseform="|människa|" stanza.baseform="människa" upos="NOUN">människans</token>
+    <token saldo.baseform="|djup|" stanza.baseform="djup" upos="ADJ">djupare</token>
+    <token saldo.baseform="|behov|" stanza.baseform="behov" upos="NOUN">behov</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|rik|" stanza.baseform="rik" upos="ADJ">rikare</token>
+    <token saldo.baseform="|möjlighet|" stanza.baseform="möjlighet" upos="NOUN">möjligheter</token>
+    <token saldo.baseform="|passa|" stanza.baseform="passa" upos="VERB">passar</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|" stanza.baseform="framstegsideal" upos="NOUN">framstegsideal</token>
+    <token saldo.baseform="|diktera|" stanza.baseform="dikterad" upos="VERB">dikterat</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|" stanza.baseform="förnuftskult" upos="NOUN">förnuftskult</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|människa|" stanza.baseform="människa" upos="NOUN">Människan</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|bihang|" stanza.baseform="bihang" upos="NOUN">bihang</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|framgång|" stanza.baseform="framgång" upos="NOUN">framgången</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|ekonomisk|" stanza.baseform="ekonomisk" upos="ADJ">ekonomiska</token>
+    <token saldo.baseform="|förändring|" stanza.baseform="förändring" upos="NOUN">förändringarna</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|psykologisk|" stanza.baseform="psykologisk" upos="ADJ">psykologiska</token>
+    <token saldo.baseform="|analys|" stanza.baseform="analys" upos="NOUN">analysen</token>
+    <token saldo.baseform="|bära|bära sig|bära sig åt|" stanza.baseform="bära" upos="VERB">bar</token>
+    <token saldo.baseform="|sig|bära sig:48|bära sig åt:48|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|ungefär|" stanza.baseform="ungefär" upos="ADV">ungefär</token>
+    <token saldo.baseform="|lika|" stanza.baseform="lika" upos="ADV">lika</token>
+    <token saldo.baseform="|bakvänd|" stanza.baseform="bakvänt" upos="ADV">bakvänt</token>
+    <token saldo.baseform="|bära sig åt:48|" stanza.baseform="åt" upos="PART">åt</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|gammal|" stanza.baseform="gammal" upos="ADJ">gamla</token>
+    <token saldo.baseform="|människa|" stanza.baseform="människa" upos="NOUN">människan</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|bara|" stanza.baseform="bara" upos="ADV">bara</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">var</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|bihang|" stanza.baseform="bihang" upos="NOUN">bihang</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|vidskepelse|" stanza.baseform="vidskepelse" upos="NOUN">vidskepelse</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|religion|" stanza.baseform="religion" upos="NOUN">religion</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|idé|" stanza.baseform="idé" upos="NOUN">idé</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="Essän" upos="PROPN">Essän</token>
+    <token saldo.baseform="|trycka|" stanza.baseform="trycka" upos="VERB">trycktes</token>
+    <token saldo.baseform="|" stanza.baseform="1946" upos="NUM">1946</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|tidskrift|" stanza.baseform="tidskrift" upos="NOUN">tidskriften</token>
+    <token saldo.baseform="|40-tal|" stanza.baseform="40-tal" upos="NOUN">40-tal</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|men|" stanza.baseform="men" upos="CONJ">men</token>
+    <token saldo.baseform="|framföra|" stanza.baseform="framföra" upos="VERB">framfördes</token>
+    <ne ex="TIMEX" name="redan hösten 1945" subtype="DAT" type="TME">
+      <token saldo.baseform="|redan|" stanza.baseform="redan" upos="ADV">redan</token>
+      <token saldo.baseform="|höst|" stanza.baseform="höst" upos="NOUN">hösten</token>
+      <token saldo.baseform="|" stanza.baseform="1945" upos="NUM">1945</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|så|så kallad|" stanza.baseform="så" upos="ADV">så</token>
+    <token saldo.baseform="|kalla|så kallad:89|" stanza.baseform="kallad" upos="VERB">kallad</token>
+    <token saldo.baseform="|" stanza.baseform="diskussionsinledning" upos="NOUN">diskussionsinledning</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|den|" stanza.baseform="dess" upos="DET">Dess</token>
+    <token saldo.baseform="|ambitionsnivå|" stanza.baseform="ambitionsnivå" upos="NOUN">ambitionsnivå</token>
+    <token saldo.baseform="|förstumma|" stanza.baseform="förstumma" upos="VERB">förstummade</token>
+    <token saldo.baseform="|möjligen|" stanza.baseform="möjligen" upos="ADV">möjligen</token>
+    <token saldo.baseform="|man|en och annan|" stanza.baseform="en" upos="PRON">en</token>
+    <token saldo.baseform="|och|en och annan:6|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|annan|en och annan:6|" stanza.baseform="annan" upos="ADJ">annan</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|auditorium|" stanza.baseform="auditorium" upos="NOUN">auditoriet</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">I</token>
+    <token saldo.baseform="|skugga|" stanza.baseform="skugga" upos="NOUN">skuggan</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|krig|" stanza.baseform="krig" upos="NOUN">kriget</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|atombomb|" stanza.baseform="atombomb" upos="NOUN">atombombernas</token>
+    <token saldo.baseform="|svampmoln|" stanza.baseform="svampmoln" upos="NOUN">svampmoln</token>
+    <token saldo.baseform="|försöka|" stanza.baseform="försöka" upos="VERB">försöker</token>
+    <ne ex="ENAMEX" name="Vennberg" subtype="HUM" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="Vennberg" upos="PROPN">Vennberg</token>
+    </ne>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|hel|" stanza.baseform="hel" upos="ADJ">hela</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sin" upos="DET">sin</token>
+    <token saldo.baseform="|ironisk|" stanza.baseform="ironisk" upos="ADJ">ironiska</token>
+    <token saldo.baseform="|" stanza.baseform="förvandlingskonst" upos="NOUN">förvandlingskonst</token>
+    <token saldo.baseform="|komma|" stanza.baseform="komma" upos="VERB">komma</token>
+    <token saldo.baseform="|" stanza.baseform="bröstgänga" upos="VERB">bröstgänges</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|amorf|" stanza.baseform="amorf" upos="ADJ">amorfa</token>
+    <token saldo.baseform="|fråga|" stanza.baseform="fråga" upos="NOUN">frågan</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|ändamål|" stanza.baseform="ändamål" upos="NOUN">ändamål</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|medel|" stanza.baseform="medel" upos="NOUN">medel</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|samhälle|" stanza.baseform="samhälle" upos="NOUN">samhället</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|konst|" stanza.baseform="konst" upos="NOUN">konsten</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">Det</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|ingen|" stanza.baseform="ingen" upos="DET">ingen</token>
+    <token saldo.baseform="|nackdel|" stanza.baseform="nackdel" upos="NOUN">nackdel</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|ha|" stanza.baseform="ha" upos="VERB">ha</token>
+    <ne ex="ENAMEX" name="Vennbergs" subtype="HUM" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="Vennberg" upos="PROPN">Vennbergs</token>
+    </ne>
+    <token saldo.baseform="|lägesbeskrivning|" stanza.baseform="lägesbeskrivning" upos="NOUN">lägesbeskrivning</token>
+    <token saldo.baseform="|aktuell|" stanza.baseform="aktuell" upos="ADJ">aktuell</token>
+    <token saldo.baseform="|när|" stanza.baseform="när" upos="ADV">när</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|läsa|" stanza.baseform="läsa" upos="VERB">läser</token>
+    <token saldo.baseform="|litteraturforskare|" stanza.baseform="litteraturforskare" upos="NOUN">litteraturforskaren</token>
+    <ne ex="ENAMEX" name="Paul Tenngarts" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Paul|" stanza.baseform="Paul" upos="PROPN">Paul</token>
+      <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngarts</token>
+    </ne>
+    <token saldo.baseform="|studie|" stanza.baseform="studie" upos="NOUN">studie</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">Romantik</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|välfärdsstat|" stanza.baseform="välfärdsstat" upos="NOUN">välfärdsstaten</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="ADP">–</token>
+    <token saldo.baseform="|" stanza.baseform="metamorfosförfattare" upos="NOUN">Metamorfosförfattarna</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|samtid|" stanza.baseform="samtid" upos="NOUN">samtiden</token>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="ellerström" upos="NOUN">ellerströms</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|" stanza.baseform="350" upos="NUM">350</token>
+    <token saldo.baseform="|s|" stanza.baseform="s" upos="NOUN">s</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngart</token>
+    <token saldo.baseform="|disputera|" stanza.baseform="disputera" upos="VERB">disputerade</token>
+    <ne ex="TIMEX" name="2002" subtype="DAT" type="TME">
+      <token saldo.baseform="|" stanza.baseform="2002" upos="NUM">2002</token>
+    </ne>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|studie|" stanza.baseform="studie" upos="NOUN">studie</token>
+    <token saldo.baseform="|över|" stanza.baseform="över" upos="ADP">över</token>
+    <token saldo.baseform="|hur|" stanza.baseform="hur" upos="ADV">hur</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|romantisk|" stanza.baseform="romantisk" upos="ADJ">romantiska</token>
+    <token saldo.baseform="|geni|" stanza.baseform="geni" upos="NOUN">geniet</token>
+    <ne ex="ENAMEX" name="Paul Andersson" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Paul|" stanza.baseform="Paul" upos="PROPN">Paul</token>
+      <token saldo.baseform="|Andersson|" stanza.baseform="Andersson" upos="PROPN">Andersson</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="1930" upos="NUM">1930</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="NOUN">–</token>
+    <token saldo.baseform="|" stanza.baseform="76" upos="NUM">76</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|verk|" stanza.baseform="verk" upos="NOUN">verket</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|berättare|" stanza.baseform="berättare" upos="NOUN">Berättarna</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|iscensätta|" stanza.baseform="iscensätta" upos="VERB">iscensätter</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|roll|roller|" stanza.baseform="roll" upos="NOUN">roller</token>
+    <token saldo.baseform="|samtid|" stanza.baseform="samtid" upos="NOUN">samtiden</token>
+    <token saldo.baseform="|tilldela|" stanza.baseform="tilldela" upos="VERB">tilldelar</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">honom</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|även|" stanza.baseform="även" upos="ADV">Även</token>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|individ|" stanza.baseform="individ" upos="NOUN">individens</token>
+    <token saldo.baseform="|nivå|" stanza.baseform="nivå" upos="NOUN">nivå</token>
+    <token saldo.baseform="|dyka|dyka upp|" stanza.baseform="dyka" upos="VERB">dyker</token>
+    <token saldo.baseform="|ju|" stanza.baseform="ju" upos="ADV">ju</token>
+    <token saldo.baseform="|oavbruten|" stanza.baseform="oavbrutet" upos="ADV">oavbrutet</token>
+    <token saldo.baseform="|fråga|" stanza.baseform="fråga" upos="NOUN">frågan</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|ändamål|" stanza.baseform="ändamål" upos="NOUN">ändamål</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|medel|" stanza.baseform="medel" upos="NOUN">medel</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|utopisk|" stanza.baseform="utopisk" upos="ADJ">utopisk</token>
+    <token saldo.baseform="|strävan|" stanza.baseform="strävan" upos="NOUN">strävan</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|ge|given|" stanza.baseform="given" upos="VERB">givna</token>
+    <token saldo.baseform="|omständighet|" stanza.baseform="omständighet" upos="NOUN">omständigheter</token>
+    <token saldo.baseform="|upp|dyka upp:5|" stanza.baseform="upp" upos="ADV">upp</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngarts</token>
+    <token saldo.baseform="|ny|" stanza.baseform="ny" upos="ADJ">nya</token>
+    <token saldo.baseform="|studie|" stanza.baseform="studie" upos="NOUN">studie</token>
+    <token saldo.baseform="|utgå|" stanza.baseform="utgå" upos="VERB">utgår</token>
+    <token saldo.baseform="|från|" stanza.baseform="från" upos="ADP">från</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|litterär|" stanza.baseform="litterär" upos="ADJ">litterära</token>
+    <token saldo.baseform="|" stanza.baseform="50-talsgruppering" upos="NOUN">50-talsgrupperingen</token>
+    <token saldo.baseform="|metamorfos|" stanza.baseform="metamorfos" upos="NOUN">Metamorfos</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|den|" stanza.baseform="dess" upos="DET">dess</token>
+    <token saldo.baseform="|dans|" stanza.baseform="dans" upos="NOUN">dans-</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|" stanza.baseform="uppläsningsafton" upos="NOUN">uppläsningsaftnar</token>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|bland|bland annat|" stanza.baseform="bland" upos="ADP">bland</token>
+    <token saldo.baseform="|annan|bland annat:16|" stanza.baseform="annat" upos="PRON">annat</token>
+    <token saldo.baseform="|restaurang|" stanza.baseform="restaurang" upos="NOUN">restaurang</token>
+    <token saldo.baseform="|tunnel|" stanza.baseform="tunnel" upos="NOUN">Tunneln</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <ne ex="ENAMEX" name="Vasastan" subtype="PPL" type="LOC">
+      <token saldo.baseform="|Vasastan|" stanza.baseform="Vasastan" upos="PROPN">Vasastan</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|den|" stanza.baseform="dess" upos="DET">dess</token>
+    <token saldo.baseform="|stencilera|" stanza.baseform="stencilerad" upos="VERB">stencilerade</token>
+    <token saldo.baseform="|häfte|" stanza.baseform="häft" upos="NOUN">häften</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|förlagsverksamhet|" stanza.baseform="förlagsverksamhet" upos="NOUN">förlagsverksamhet</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|mot|mot bakgrund av|" stanza.baseform="mot" upos="ADP">Mot</token>
+    <token saldo.baseform="|bakgrund|mot bakgrund av:1|" stanza.baseform="bakgrund" upos="NOUN">bakgrund</token>
+    <token saldo.baseform="|av|mot bakgrund av:1|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|välfärdssamhälle|" stanza.baseform="välfärdssamhälle" upos="NOUN">välfärdssamhället</token>
+    <token saldo.baseform="|under|" stanza.baseform="under" upos="ADP">under</token>
+    <token saldo.baseform="|framför|framför allt|" stanza.baseform="framför" upos="ADP">framför</token>
+    <token saldo.baseform="|all|framför allt:8|" stanza.baseform="all" upos="DET">allt</token>
+    <token saldo.baseform="|50-tal|" stanza.baseform="50-tal" upos="NOUN">50-talet</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|fokus|" stanza.baseform="fokus" upos="NOUN">fokus</token>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|estetisk|" stanza.baseform="estetisk" upos="ADJ">estetiska</token>
+    <token saldo.baseform="|revolt|" stanza.baseform="revolt" upos="NOUN">revolten</token>
+    <token saldo.baseform="|mot|" stanza.baseform="mot" upos="ADP">mot</token>
+    <token saldo.baseform="|kväva|kvävande|" stanza.baseform="kvävande" upos="VERB">kvävande</token>
+    <token saldo.baseform="|" stanza.baseform="trygghetsideal" upos="NOUN">trygghetsideal</token>
+    <token saldo.baseform="|teckna|" stanza.baseform="teckna" upos="VERB">tecknar</token>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngart</token>
+    <token saldo.baseform="|utveckling|" stanza.baseform="utveckling" upos="NOUN">utvecklingen</token>
+    <token saldo.baseform="|hos|" stanza.baseform="hos" upos="ADP">hos</token>
+    <token saldo.baseform="|fem|" stanza.baseform="fem" upos="NUM">fem</token>
+    <token saldo.baseform="|författarskap|" stanza.baseform="författarskap" upos="NOUN">författarskap</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|självförbrännande|" stanza.baseform="självförbrännande" upos="VERB">självförbrännande</token>
+    <ne ex="ENAMEX" name="Paul Andersson" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Paul|" stanza.baseform="Paul" upos="PROPN">Paul</token>
+      <token saldo.baseform="|Andersson|" stanza.baseform="Andersson" upos="PROPN">Andersson</token>
+    </ne>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|bland|bland annat|" stanza.baseform="bland" upos="ADP">bland</token>
+    <token saldo.baseform="|annan|bland annat:33|" stanza.baseform="annat" upos="PRON">annat</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sin" upos="DET">sin</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|elegi|" stanza.baseform="elegi" upos="NOUN">Elegi</token>
+    <token saldo.baseform="|över|" stanza.baseform="över" upos="ADP">över</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|förlora|förlorad|" stanza.baseform="förlorad" upos="VERB">förlorad</token>
+    <token saldo.baseform="|sommar|" stanza.baseform="sommar" upos="NOUN">sommar</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform=";" upos="PUNCT">;</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|både och|" stanza.baseform="både" upos="CONJ">både</token>
+    <token saldo.baseform="|" stanza.baseform="formmedvetenn" upos="ADJ">formmedvetne</token>
+    <token saldo.baseform="|och|både och:45|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|social|" stanza.baseform="socialt" upos="ADV">socialt</token>
+    <token saldo.baseform="|engagera|engagerad|" stanza.baseform="engagerad" upos="VERB">engagerade</token>
+    <ne ex="ENAMEX" name="Lasse Söderberg" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Lasse|" stanza.baseform="Lasse" upos="PROPN">Lasse</token>
+      <token saldo.baseform="|Söderberg|" stanza.baseform="Söderberg" upos="PROPN">Söderberg</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="f" upos="PROPN">f</token>
+    <token saldo.baseform="|" stanza.baseform="1931" upos="NUM">1931</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|" stanza.baseform=";" upos="PUNCT">;</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|utopisk|" stanza.baseform="utopisk" upos="ADJ">utopiske</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|" stanza.baseform="klassanalytisk" upos="ADJ">klassanalytiske</token>
+    <ne ex="ENAMEX" name="Svante Foerster" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Svante|" stanza.baseform="Svante" upos="PROPN">Svante</token>
+      <token saldo.baseform="|" stanza.baseform="Foerster" upos="PROPN">Foerster</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="1931" upos="NUM">1931</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="PUNCT">–</token>
+    <token saldo.baseform="|" stanza.baseform="80" upos="NUM">80</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sin" upos="DET">sitt</token>
+    <token saldo.baseform="|intresse|" stanza.baseform="intresse" upos="NOUN">intresse</token>
+    <token saldo.baseform="|för|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|jazz|" stanza.baseform="jazz" upos="NOUN">jazz</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|blues|" stanza.baseform="blues" upos="NOUN">blues</token>
+    <token saldo.baseform="|" stanza.baseform=";" upos="PUNCT">;</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|" stanza.baseform="melankoliskt-skeptisk" upos="ADJ">melankoliskt-skeptiske</token>
+    <token saldo.baseform="|men|" stanza.baseform="men" upos="CONJ">men</token>
+    <token saldo.baseform="|också|" stanza.baseform="också" upos="ADV">också</token>
+    <token saldo.baseform="|social|" stanza.baseform="socialt" upos="ADV">socialt</token>
+    <token saldo.baseform="|engagera|engagerad|" stanza.baseform="engagerad" upos="VERB">engagerade</token>
+    <ne ex="ENAMEX" name="Petter Bergman" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Petter|" stanza.baseform="Petter" upos="PROPN">Petter</token>
+      <token saldo.baseform="|Bergman|" stanza.baseform="Bergman" upos="PROPN">Bergman</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="1934" upos="NUM">1934</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="NOUN">–</token>
+    <token saldo.baseform="|" stanza.baseform="86" upos="NUM">86</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|samt|" stanza.baseform="samt" upos="CONJ">samt</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|" stanza.baseform="verklighetshungrig" upos="ADJ">verklighetshungriga</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|total|" stanza.baseform="totalt" upos="ADV">totalt</token>
+    <token saldo.baseform="|orädd|" stanza.baseform="orädd" upos="ADJ">orädda</token>
+    <ne ex="ENAMEX" name="Birgitta Stenberg" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Birgitta|" stanza.baseform="Birgitta" upos="PROPN">Birgitta</token>
+      <token saldo.baseform="|Stenberg|" stanza.baseform="Stenberg" upos="PROPN">Stenberg</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="f" upos="PROPN">f</token>
+    <token saldo.baseform="|" stanza.baseform="1932" upos="NUM">1932</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|skillnad|" stanza.baseform="skillnad" upos="NOUN">skillnad</token>
+    <token saldo.baseform="|mot|" stanza.baseform="mot" upos="ADP">mot</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|annan|" stanza.baseform="andra" upos="PRON">andra</token>
+    <token saldo.baseform="|slå|slå igenom|" stanza.baseform="slå" upos="VERB">slog</token>
+    <token saldo.baseform="|slå igenom:108|" stanza.baseform="igenom" upos="PART">igenom</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|berättare|" stanza.baseform="berättare" upos="NOUN">berättare</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="decennieindelning" upos="NOUN">Decennieindelningar</token>
+    <token saldo.baseform="|bli|" stanza.baseform="bli" upos="VERB">blir</token>
+    <token saldo.baseform="|stereotyp|" stanza.baseform="stereotyp" upos="NOUN">stereotyper</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="SCONJ">om</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|blåsa|" stanza.baseform="blåsa" upos="VERB">blåser</token>
+    <token saldo.baseform="|liv|" stanza.baseform="liv" upos="NOUN">liv</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|de|" stanza.baseform="de" upos="PRON">dem</token>
+    <token saldo.baseform="|ibland|" stanza.baseform="ibland" upos="ADV">ibland</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|ny|" stanza.baseform="ny" upos="ADJ">nya</token>
+    <token saldo.baseform="|fråga|" stanza.baseform="fråga" upos="NOUN">frågor</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">Det</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|just|" stanza.baseform="just" upos="ADV">just</token>
+    <token saldo.baseform="|vad|" stanza.baseform="vad" upos="PRON">vad</token>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngart</token>
+    <token saldo.baseform="|göra|" stanza.baseform="göra" upos="VERB">gör</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">Det</token>
+    <token saldo.baseform="|litterär|" stanza.baseform="litterär" upos="ADJ">litterära</token>
+    <token saldo.baseform="|50-tal|" stanza.baseform="50-tal" upos="NOUN">50-talet</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|allmän|" stanza.baseform="allmän" upos="ADJ">allmänna</token>
+    <token saldo.baseform="|medvetande|" stanza.baseform="medvetande" upos="NOUN">medvetandet</token>
+    <token saldo.baseform="|knapp|knappast|" stanza.baseform="knappast" upos="ADV">knappast</token>
+    <token saldo.baseform="|förknippa|" stanza.baseform="förknippad" upos="VERB">förknippat</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|revolt|" stanza.baseform="revolt" upos="NOUN">revolt</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|solidaritet|" stanza.baseform="solidaritet" upos="NOUN">solidaritet</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|radikal|" stanza.baseform="radikal" upos="ADJ">radikala</token>
+    <token saldo.baseform="|" stanza.baseform="livsexperiment" upos="NOUN">livsexperiment</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|snar|snarare|" stanza.baseform="snarare" upos="ADV">Snarare</token>
+    <token saldo.baseform="|tänka|" stanza.baseform="tänka" upos="VERB">tänker</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|väl|" stanza.baseform="väl" upos="ADV">väl</token>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|drag|" stanza.baseform="drag" upos="NOUN">draget</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|idyll|" stanza.baseform="idyll" upos="NOUN">idyll</token>
+    <token saldo.baseform="|hos|" stanza.baseform="hos" upos="ADP">hos</token>
+    <token saldo.baseform="|författare|" stanza.baseform="författare" upos="NOUN">författare</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <ne ex="ENAMEX" name="Bo Setterlind" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Bo|" stanza.baseform="Bo" upos="PROPN">Bo</token>
+      <token saldo.baseform="|" stanza.baseform="Setterlind" upos="PROPN">Setterlind</token>
+    </ne>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|ung|" stanza.baseform="ung" upos="ADJ">unge</token>
+    <token saldo.baseform="|Per|" stanza.baseform="Per" upos="PROPN">Per</token>
+    <ne ex="ENAMEX" name="Wästberg" subtype="HUM" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="Wästberg" upos="PROPN">Wästberg</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|men|" stanza.baseform="men" upos="CONJ">Men</token>
+    <token saldo.baseform="|revolt|" stanza.baseform="revolt" upos="NOUN">revolten</token>
+    <token saldo.baseform="|mot|" stanza.baseform="mot" upos="ADP">mot</token>
+    <token saldo.baseform="|" stanza.baseform="förnuftsdyrkan" upos="NOUN">förnuftsdyrkan</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|" stanza.baseform="effektivitetsiv" upos="NOUN">effektivitetsiver</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|" stanza.baseform="medborgarkontroll" upos="NOUN">medborgarkontroll</token>
+    <token saldo.baseform="|ta|ta sig|ta sig uttryck|" stanza.baseform="ta" upos="VERB">tog</token>
+    <token saldo.baseform="|sig|ta sig:9|ta sig uttryck:9|" stanza.baseform="sig" upos="PRON">sig</token>
+    <ne ex="TIMEX" name="på 50-talet" subtype="DAT" type="TME">
+      <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+      <token saldo.baseform="|50-tal|" stanza.baseform="50-tal" upos="NOUN">50-talet</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="mången" upos="ADJ">många</token>
+    <token saldo.baseform="|olik|" stanza.baseform="olik" upos="ADJ">olika</token>
+    <token saldo.baseform="|uttryck|ta sig uttryck:9|" stanza.baseform="uttryck" upos="NOUN">uttryck</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|över|" stanza.baseform="över" upos="ADP">över</token>
+    <token saldo.baseform="|hel|" stanza.baseform="hel" upos="ADJ">hela</token>
+    <token saldo.baseform="|register|" stanza.baseform="register" upos="NOUN">registret</token>
+    <token saldo.baseform="|från|" stanza.baseform="från" upos="ADP">från</token>
+    <token saldo.baseform="|dekad|" stanza.baseform="dekad" upos="NOUN">dekadens</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|flykt|" stanza.baseform="flykt" upos="NOUN">flykt</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|svart|" stanza.baseform="svart" upos="ADJ">svart</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|" stanza.baseform="luciferisk" upos="ADJ">luciferisk</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantik</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|internationell|" stanza.baseform="internationell" upos="ADJ">internationell</token>
+    <token saldo.baseform="|solidaritet|" stanza.baseform="solidaritet" upos="NOUN">solidaritet</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|trotsa|" stanza.baseform="trotsa" upos="VERB">trotsade</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|" stanza.baseform="trygghetsgrundad" upos="VERB">trygghetsgrundade</token>
+    <token saldo.baseform="|" stanza.baseform="förnuftsstat" upos="NOUN">förnuftsstatens</token>
+    <token saldo.baseform="|inhägnad|" stanza.baseform="inhägnad" upos="NOUN">inhägnad</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngart</token>
+    <token saldo.baseform="|sätta|" stanza.baseform="sätta" upos="VERB">sätter</token>
+    <token saldo.baseform="|" stanza.baseform="metamorfosgrupp" upos="NOUN">Metamorfosgruppens</token>
+    <token saldo.baseform="|verksamhet|" stanza.baseform="verksamhet" upos="NOUN">verksamhet</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|förbindelse|" stanza.baseform="förbindelse" upos="NOUN">förbindelse</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|olik|" stanza.baseform="olik" upos="ADJ">olika</token>
+    <ne ex="TIMEX" name="idag" subtype="DAT" type="TME">
+      <token saldo.baseform="|idag|" stanza.baseform="idag" upos="ADV">idag</token>
+    </ne>
+    <token saldo.baseform="|halv|" stanza.baseform="halvt" upos="ADV">halvt</token>
+    <token saldo.baseform="|bortglömd|glömma bort|" stanza.baseform="bortglömd" upos="VERB">bortglömda</token>
+    <token saldo.baseform="|" stanza.baseform="undergroundfenom" upos="NOUN">undergroundfenomen</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|50-tal|" stanza.baseform="50-tal" upos="NOUN">50-talet</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">Till</token>
+    <token saldo.baseform="|de|" stanza.baseform="de" upos="PRON">dem</token>
+    <token saldo.baseform="|höra|" stanza.baseform="höra" upos="VERB">hör</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|så|så kallad|" stanza.baseform="så" upos="ADV">så</token>
+    <token saldo.baseform="|kalla|så kallad:5|" stanza.baseform="kallad" upos="VERB">kallade</token>
+    <token saldo.baseform="|" stanza.baseform="berzeliikravall" upos="NOUN">Berzeliikravallerna</token>
+    <ne ex="TIMEX" name="i juli" subtype="DAT" type="TME">
+      <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+      <token saldo.baseform="|juli|" stanza.baseform="juli" upos="NOUN">juli</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <ne ex="TIMEX" name="augusti och september 1951" subtype="DAT" type="TME">
+      <token saldo.baseform="|augusti|" stanza.baseform="augusti" upos="NOUN">augusti</token>
+      <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+      <token saldo.baseform="|september|" stanza.baseform="september" upos="NOUN">september</token>
+      <token saldo.baseform="|" stanza.baseform="1951" upos="NUM">1951</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|då|" stanza.baseform="då" upos="ADV">då</token>
+    <token saldo.baseform="|" stanza.baseform="tusentals" upos="ADV">tusentals</token>
+    <token saldo.baseform="|ungdom|" stanza.baseform="ungdom" upos="NOUN">ungdomar</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|skifta|" stanza.baseform="skiftande" upos="VERB">skiftande</token>
+    <token saldo.baseform="|vandel|" stanza.baseform="vandel" upos="NOUN">vandel</token>
+    <token saldo.baseform="|konfrontera|" stanza.baseform="konfrontera" upos="VERB">konfronterades</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|polis|" stanza.baseform="polis" upos="NOUN">polisens</token>
+    <token saldo.baseform="|dra|dragen|" stanza.baseform="dragen" upos="VERB">dragna</token>
+    <token saldo.baseform="|sabel|" stanza.baseform="sabel" upos="NOUN">sablar</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <ne ex="ENAMEX" name="New York Times" subtype="WMD" type="WRK">
+      <token saldo.baseform="|New York|" stanza.baseform="New" upos="PROPN">New</token>
+      <token saldo.baseform="|York|New York:1|" stanza.baseform="York" upos="PROPN">York</token>
+      <token saldo.baseform="|Times|" stanza.baseform="Times" upos="PROPN">Times</token>
+    </ne>
+    <token saldo.baseform="|korrespondent|" stanza.baseform="korrespondent" upos="NOUN">korrespondent</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <ne ex="ENAMEX" name="Stockholm" subtype="PPL" type="LOC">
+      <token saldo.baseform="|Stockholm|" stanza.baseform="Stockholm" upos="PROPN">Stockholm</token>
+    </ne>
+    <token saldo.baseform="|söka|" stanza.baseform="söka" upos="VERB">sökte</token>
+    <token saldo.baseform="|förklaring|" stanza.baseform="förklaring" upos="NOUN">förklaringen</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|ungdom|" stanza.baseform="ungdom" upos="NOUN">ungdomarna</token>
+    <token saldo.baseform="|ha|" stanza.baseform="ha" upos="VERB">hade</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|tråka|tråka ut|" stanza.baseform="tråkas" upos="VERB">tråkats</token>
+    <token saldo.baseform="|ut|tråka ut:14|" stanza.baseform="ut" upos="PART">ut</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|folkhem|" stanza.baseform="folkhem" upos="NOUN">folkhemmets</token>
+    <token saldo.baseform="|välstånd|" stanza.baseform="välstånd" upos="NOUN">välstånd</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|först|" stanza.baseform="först" upos="ADV">Först</token>
+    <ne ex="TIMEX" name="tio år senare" subtype="DAT" type="TME">
+      <token saldo.baseform="|tio|" stanza.baseform="tio" upos="NUM">tio</token>
+      <token saldo.baseform="|år|" stanza.baseform="år" upos="NOUN">år</token>
+      <token saldo.baseform="|sen|senare|" stanza.baseform="sent" upos="ADV">senare</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|när|" stanza.baseform="när" upos="ADV">när</token>
+    <token saldo.baseform="|ungdomskultur|" stanza.baseform="ungdomskultur" upos="NOUN">ungdomskulturen</token>
+    <token saldo.baseform="|bli|" stanza.baseform="bliva" upos="VERB">blivit</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|fenomen|" stanza.baseform="fenomen" upos="NOUN">fenomen</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|räkna|" stanza.baseform="räkna" upos="VERB">räkna</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|i|i form|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|form|i form:14|" stanza.baseform="form" upos="NOUN">form</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|tonåring|" stanza.baseform="tonåring" upos="NOUN">tonåringar</token>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|ny|" stanza.baseform="ny" upos="ADJ">nytt</token>
+    <token saldo.baseform="|ord|" stanza.baseform="ord" upos="NOUN">ord</token>
+    <ne ex="TIMEX" name="på 50-talet" subtype="DAT" type="TME">
+      <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+      <token saldo.baseform="|50-tal|" stanza.baseform="50-tal" upos="NOUN">50-talet</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|raggare|" stanza.baseform="raggare" upos="NOUN">raggare</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|rockmusik|" stanza.baseform="rockmusik" upos="NOUN">rockmusik</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|skola|" stanza.baseform="ska" upos="VERB">skulle</token>
+    <token saldo.baseform="|erfarenhet|" stanza.baseform="erfarenhet" upos="NOUN">erfarenheterna</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|denna|" stanza.baseform="denna" upos="DET">dessa</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|likna|liknande|" stanza.baseform="liknande" upos="VERB">liknande</token>
+    <token saldo.baseform="|konfrontation|" stanza.baseform="konfrontation" upos="NOUN">konfrontationer</token>
+    <token saldo.baseform="|få|" stanza.baseform="få" upos="VERB">få</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sin" upos="DET">sin</token>
+    <token saldo.baseform="|litterär|" stanza.baseform="litterär" upos="ADJ">litterära</token>
+    <token saldo.baseform="|gestaltning|" stanza.baseform="gestaltning" upos="NOUN">gestaltning</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|roman|" stanza.baseform="roman" upos="NOUN">romaner</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|äventyrlig|" stanza.baseform="äventyrlig" upos="ADJ">äventyrlig</token>
+    <token saldo.baseform="|ungdom|" stanza.baseform="ungdom" upos="NOUN">ungdom</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|bland|" stanza.baseform="bland" upos="ADP">bland</token>
+    <token saldo.baseform="|annan|" stanza.baseform="andra" upos="PRON">andra</token>
+    <ne ex="ENAMEX" name="Birgitta Stenberg" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Birgitta|" stanza.baseform="Birgitta" upos="PROPN">Birgitta</token>
+      <token saldo.baseform="|Stenberg|" stanza.baseform="Stenberg" upos="PROPN">Stenberg</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <ne ex="ENAMEX" name="Lars Görling" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Lars|" stanza.baseform="Lars" upos="PROPN">Lars</token>
+      <token saldo.baseform="|Görling|" stanza.baseform="Görling" upos="PROPN">Görling</token>
+    </ne>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <ne ex="ENAMEX" name="Björn Lundegård" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Björn|" stanza.baseform="Björn" upos="PROPN">Björn</token>
+      <token saldo.baseform="|" stanza.baseform="Lundegård" upos="PROPN">Lundegård</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|när|" stanza.baseform="när" upos="ADV">När</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <ne ex="TIMEX" name="idag" subtype="DAT" type="TME">
+      <token saldo.baseform="|idag|" stanza.baseform="idag" upos="ADV">idag</token>
+    </ne>
+    <token saldo.baseform="|skola|" stanza.baseform="ska" upos="VERB">skall</token>
+    <token saldo.baseform="|fundera|" stanza.baseform="fundera" upos="VERB">fundera</token>
+    <token saldo.baseform="|kring|" stanza.baseform="kring" upos="ADP">kring</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|etnisk|" stanza.baseform="etniskt" upos="ADV">etniskt</token>
+    <token saldo.baseform="|homogen|" stanza.baseform="homogen" upos="ADJ">homogena</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|välfärdsstat|" stanza.baseform="välfärdsstat" upos="NOUN">välfärdsstatens</token>
+    <token saldo.baseform="|uppkomst|" stanza.baseform="uppkomst" upos="NOUN">uppkomst</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|utveckling|" stanza.baseform="utveckling" upos="NOUN">utveckling</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|avveckling|" stanza.baseform="avveckling" upos="NOUN">avveckling</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|" stanza.baseform="1930" upos="NUM">1930</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|ungefär|" stanza.baseform="ungefär" upos="ADV">ungefär</token>
+    <token saldo.baseform="|" stanza.baseform="1990" upos="NUM">1990</token>
+    <token saldo.baseform="|ha|ha att göra|" stanza.baseform="ha" upos="VERB">har</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|att|ha att göra:22|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|göra|ha att göra:22|" stanza.baseform="göra" upos="VERB">göra</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|historisk|" stanza.baseform="historisk" upos="ADJ">historisk</token>
+    <token saldo.baseform="|formation|" stanza.baseform="formation" upos="NOUN">formation</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|all|" stanza.baseform="all" upos="DET">alla</token>
+    <token saldo.baseform="|" stanza.baseform="hårddata" upos="VERB">hårddata</token>
+    <token saldo.baseform="|till|till trots|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|trots|till trots:33|" stanza.baseform="trots" upos="NOUN">trots</token>
+    <token saldo.baseform="|riskera|" stanza.baseform="riskera" upos="VERB">riskerar</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|bli|" stanza.baseform="bli" upos="VERB">bli</token>
+    <token saldo.baseform="|obegriplig|" stanza.baseform="obegriplig" upos="ADJ">obegriplig</token>
+    <token saldo.baseform="|utan|" stanza.baseform="utan" upos="ADP">utan</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|litterär|" stanza.baseform="litterär" upos="ADJ">litterära</token>
+    <token saldo.baseform="|berättelse|" stanza.baseform="berättelse" upos="NOUN">berättelser</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|gestaltning|" stanza.baseform="gestaltning" upos="NOUN">gestaltningar</token>
+    <token saldo.baseform="|där|" stanza.baseform="där" upos="ADV">där</token>
+    <token saldo.baseform="|historia|" stanza.baseform="historia" upos="NOUN">historien</token>
+    <token saldo.baseform="|överföra|" stanza.baseform="överföra" upos="VERB">överförs</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|generation|" stanza.baseform="generation" upos="NOUN">generationer</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngarts</token>
+    <token saldo.baseform="|studie|" stanza.baseform="studie" upos="NOUN">studie</token>
+    <token saldo.baseform="|ingå|" stanza.baseform="ingå" upos="VERB">ingår</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|sån|" stanza.baseform="sådan" upos="ADJ">sådant</token>
+    <token saldo.baseform="|subtil|" stanza.baseform="subtil" upos="ADJ">subtilt</token>
+    <token saldo.baseform="|" stanza.baseform="historiografisk" upos="ADJ">historiografiskt</token>
+    <token saldo.baseform="|förlopp|" stanza.baseform="förlopp" upos="NOUN">förlopp</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|vilja|" stanza.baseform="vilja" upos="VERB">vill</token>
+    <token saldo.baseform="|därvidlag|" stanza.baseform="därvidlag" upos="ADV">därvidlag</token>
+    <token saldo.baseform="|fungera|" stanza.baseform="fungera" upos="VERB">fungera</token>
+    <token saldo.baseform="|både och|" stanza.baseform="både" upos="CONJ">både</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|idéhistorisk|" stanza.baseform="idéhistorisk" upos="ADJ">idéhistorisk</token>
+    <token saldo.baseform="|skildring|" stanza.baseform="skildring" upos="NOUN">skildring</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|epok|" stanza.baseform="epok" upos="NOUN">epoks</token>
+    <token saldo.baseform="|tema|" stanza.baseform="tema" upos="NOUN">teman</token>
+    <token saldo.baseform="|och|både och:15|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|stämning|" stanza.baseform="stämning" upos="NOUN">stämningar</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|detaljerad|" stanza.baseform="detaljerad" upos="VERB">detaljerad</token>
+    <token saldo.baseform="|litterär|" stanza.baseform="litterär" upos="ADJ">litterär</token>
+    <token saldo.baseform="|" stanza.baseform="porträttkonst" upos="NOUN">porträttkonst</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|noggrann|" stanza.baseform="noggrann" upos="ADJ">noggranna</token>
+    <token saldo.baseform="|läsning|" stanza.baseform="läsning" upos="NOUN">läsningar</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|författare|" stanza.baseform="författare" upos="NOUN">författarnas</token>
+    <token saldo.baseform="|verk|" stanza.baseform="verk" upos="NOUN">verk</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|hel|" stanza.baseform="hel" upos="ADJ">hela</token>
+    <token saldo.baseform="|de|" stanza.baseform="deras" upos="DET">deras</token>
+    <token saldo.baseform="|egenart|" stanza.baseform="egenart" upos="NOUN">egenart</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">Romantik</token>
+    <token saldo.baseform="|heta|" stanza.baseform="heta" upos="VERB">heter</token>
+    <token saldo.baseform="|alltså|" stanza.baseform="alltså" upos="ADV">alltså</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|begreppslig|" stanza.baseform="begreppslig" upos="ADJ">begreppsliga</token>
+    <token saldo.baseform="|membran|" stanza.baseform="membran" upos="NOUN">membran</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|vars|" stanza.baseform="vars" upos="DET">vars</token>
+    <token saldo.baseform="|hjälp|" stanza.baseform="hjälp" upos="NOUN">hjälp</token>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngart</token>
+    <token saldo.baseform="|vilja|" stanza.baseform="vilja" upos="VERB">vill</token>
+    <token saldo.baseform="|uppfånga|" stanza.baseform="uppfånga" upos="VERB">uppfånga</token>
+    <token saldo.baseform="|kommunikation|" stanza.baseform="kommunikation" upos="NOUN">kommunikationen</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|trygghet|" stanza.baseform="trygghet" upos="NOUN">trygghets-</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|" stanza.baseform="samförståndsmodell" upos="NOUN">samförståndsmodellen</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|enskild|" stanza.baseform="enskild" upos="ADJ">enskilda</token>
+    <token saldo.baseform="|litterär|" stanza.baseform="litterär" upos="ADJ">litterära</token>
+    <token saldo.baseform="|text|" stanza.baseform="text" upos="NOUN">texternas</token>
+    <token saldo.baseform="|passionerad|" stanza.baseform="passionerad" upos="VERB">passionerade</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|motsägelsefull|" stanza.baseform="motsägelsefull" upos="ADJ">motsägelsefulla</token>
+    <token saldo.baseform="|värld|" stanza.baseform="värld" upos="NOUN">världar</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">De</token>
+    <token saldo.baseform="|fem|" stanza.baseform="fem" upos="NUM">fem</token>
+    <token saldo.baseform="|" stanza.baseform="författarskap" upos="NOUN">författarskapen</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|mena|" stanza.baseform="mena" upos="VERB">menar</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|all|" stanza.baseform="all" upos="DET">alla</token>
+    <token saldo.baseform="|genuin|" stanza.baseform="genuint" upos="ADV">genuint</token>
+    <token saldo.baseform="|romantisk|" stanza.baseform="romantisk" upos="ADJ">romantiska</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|i|i sin|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|sig|i sin:16|" stanza.baseform="sin" upos="DET">sin</token>
+    <token saldo.baseform="|utveckling|" stanza.baseform="utveckling" upos="NOUN">utveckling</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|romantisk|" stanza.baseform="romantisk" upos="ADJ">romantiska</token>
+    <token saldo.baseform="|tema|" stanza.baseform="tema" upos="NOUN">teman</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|attityd|" stanza.baseform="attityd" upos="NOUN">attityder</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|sensibilitet|" stanza.baseform="sensibilitet" upos="NOUN">sensibiliteter</token>
+    <token saldo.baseform="|de|" stanza.baseform="de" upos="PRON">de</token>
+    <token saldo.baseform="|ifrågasätta|" stanza.baseform="ifrågasätta" upos="VERB">ifrågasätter</token>
+    <token saldo.baseform="|välfärdsstat|" stanza.baseform="välfärdsstat" upos="NOUN">välfärdsstaten</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|liksom|" stanza.baseform="liksom" upos="SCONJ">Liksom</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|finna|finnas|" stanza.baseform="finnas" upos="VERB">finns</token>
+    <token saldo.baseform="|" stanza.baseform="schablonföreställning" upos="NOUN">schablonföreställningar</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|decennium|" stanza.baseform="decennium" upos="NOUN">decennierna</token>
+    <token saldo.baseform="|finna|finnas|" stanza.baseform="finnas" upos="VERB">finns</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|stereotyp|" stanza.baseform="stereotyp" upos="ADJ">stereotypa</token>
+    <token saldo.baseform="|föreställning|" stanza.baseform="föreställning" upos="NOUN">föreställningar</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|göra|göra sig|göra sig gällande|" stanza.baseform="göra" upos="VERB">gör</token>
+    <token saldo.baseform="|sig|göra sig:12|göra sig gällande:12|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|gälla|göra sig gällande:12|" stanza.baseform="gällande" upos="VERB">gällande</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|användning|" stanza.baseform="användning" upos="NOUN">användningen</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|ord|" stanza.baseform="ord" upos="NOUN">ord</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|romantisk|" stanza.baseform="romantisk" upos="ADJ">romantisk</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|så|så gott som|" stanza.baseform="så" upos="ADV">Så</token>
+    <token saldo.baseform="|god|så gott som:1|" stanza.baseform="gott" upos="ADV">gott</token>
+    <token saldo.baseform="|så gott som:1|" stanza.baseform="som" upos="CONJ">som</token>
+    <ne ex="NUMEX" name="dagligen" subtype="FRQ" type="MSR">
+      <token saldo.baseform="|dagligen|" stanza.baseform="dagligen" upos="ADV">dagligen</token>
+    </ne>
+    <token saldo.baseform="|kunna|" stanza.baseform="kunna" upos="VERB">kan</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|massmedium|" stanza.baseform="massmedia" upos="NOUN">massmedia</token>
+    <token saldo.baseform="|se|" stanza.baseform="se" upos="VERB">se</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|vi|" stanza.baseform="vi" upos="PRON">vi</token>
+    <token saldo.baseform="|gärna|" stanza.baseform="gärna" upos="ADV">gärna</token>
+    <token saldo.baseform="|använda|" stanza.baseform="använda" upos="VERB">använder</token>
+    <token saldo.baseform="|ord|" stanza.baseform="ord" upos="NOUN">ordet</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|synonym|" stanza.baseform="synonym" upos="ADJ">synonym</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|verklighetsfrämmande|" stanza.baseform="verklighetsfrämmande" upos="VERB">verklighetsfrämmande</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|oförnuftig|" stanza.baseform="oförnuftig" upos="ADJ">oförnuftig</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|känslosam|" stanza.baseform="känslosam" upos="ADJ">känslosam</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|" stanza.baseform="känslostyrd" upos="VERB">känslostyrd</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="tenngart" upos="NOUN">Tenngart</token>
+    <token saldo.baseform="|däremot|" stanza.baseform="däremot" upos="ADV">däremot</token>
+    <token saldo.baseform="|arbeta|" stanza.baseform="arbeta" upos="VERB">arbetar</token>
+    <token saldo.baseform="|som|" stanza.baseform="som" upos="ADV">som</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|kunna|" stanza.baseform="kunna" upos="VERB">kunde</token>
+    <token saldo.baseform="|vänta|vänta sig|" stanza.baseform="vänta" upos="VERB">vänta</token>
+    <token saldo.baseform="|sig|vänta sig:7|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|mer|mycket|" stanza.baseform="mycket" upos="ADV">mer</token>
+    <token saldo.baseform="|" stanza.baseform="perspektivrik" upos="ADJ">perspektivrikt</token>
+    <token saldo.baseform="|" stanza.baseform="romantikbegrepp" upos="NOUN">romantikbegrepp</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">Han</token>
+    <token saldo.baseform="|ha|" stanza.baseform="ha" upos="VERB">har</token>
+    <token saldo.baseform="|dock|" stanza.baseform="dock" upos="ADV">dock</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|tendens|" stanza.baseform="tendens" upos="NOUN">tendens</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|samla|" stanza.baseform="samla" upos="VERB">samla</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|mängd|" stanza.baseform="mängd" upos="NOUN">mängd</token>
+    <token saldo.baseform="|drag|" stanza.baseform="drag" upos="NOUN">drag</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="ADP">–</token>
+    <token saldo.baseform="|exempelvis|" stanza.baseform="exempelvis" upos="ADV">exempelvis</token>
+    <token saldo.baseform="|sentimentalitet|" stanza.baseform="sentimentalitet" upos="NOUN">sentimentalitet</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|" stanza.baseform="naturkänsla" upos="NOUN">naturkänsla</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|orientering|" stanza.baseform="orientering" upos="NOUN">orientering</token>
+    <token saldo.baseform="|mot|" stanza.baseform="mot" upos="ADP">mot</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|okänd|" stanza.baseform="okänd" upos="ADJ">okända</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|gåtfull|" stanza.baseform="gåtfull" upos="ADJ">gåtfulla</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|mångtydig|" stanza.baseform="mångtydig" upos="ADJ">mångtydiga</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="NOUN">–</token>
+    <token saldo.baseform="|under|" stanza.baseform="under" upos="ADP">under</token>
+    <token saldo.baseform="|rubrik|" stanza.baseform="rubrik" upos="NOUN">rubriken</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="irrationalitet" upos="NOUN">irrationalitet</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|ställa|" stanza.baseform="ställa" upos="VERB">ställa</token>
+    <token saldo.baseform="|denna|" stanza.baseform="denna" upos="DET">denna</token>
+    <token saldo.baseform="|" stanza.baseform="irrationalitet" upos="NOUN">irrationalitet</token>
+    <token saldo.baseform="|mot|" stanza.baseform="mot" upos="ADP">mot</token>
+    <token saldo.baseform="|" stanza.baseform="storsamhälle" upos="NOUN">storsamhällets</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|rationalitet|" stanza.baseform="rationalitet" upos="NOUN">rationalitet</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">Det</token>
+    <token saldo.baseform="|bli|" stanza.baseform="bli" upos="VERB">blir</token>
+    <token saldo.baseform="|man|" stanza.baseform="en" upos="PRON">en</token>
+    <token saldo.baseform="|på|på stället|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|ställ|ställe|på stället:4|" stanza.baseform="ställe" upos="NOUN">stället</token>
+    <token saldo.baseform="|marsch|" stanza.baseform="marsch" upos="NOUN">marsch</token>
+    <token saldo.baseform="|ibland|" stanza.baseform="ibland" upos="ADV">ibland</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|tacksam|" stanza.baseform="tacksam" upos="ADJ">tacksam</token>
+    <token saldo.baseform="|över|" stanza.baseform="över" upos="ADP">över</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|ägna|" stanza.baseform="ägna" upos="VERB">ägnar</token>
+    <token saldo.baseform="|mycket|" stanza.baseform="mycket" upos="ADV">mest</token>
+    <token saldo.baseform="|utrymme|" stanza.baseform="utrymme" upos="NOUN">utrymme</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|skarpsinne|" stanza.baseform="skarpsinne" upos="NOUN">skarpsinne</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|tålamod|" stanza.baseform="tålamod" upos="NOUN">tålamod</token>
+    <token saldo.baseform="|åt|" stanza.baseform="åt" upos="ADP">åt</token>
+    <token saldo.baseform="|läsning|" stanza.baseform="läsning" upos="NOUN">läsningarna</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|enskild|" stanza.baseform="enskild" upos="ADJ">enskilda</token>
+    <token saldo.baseform="|text|" stanza.baseform="text" upos="NOUN">texterna</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|" stanza.baseform="vilka" upos="PRON">vilka</token>
+    <ne ex="TIMEX" name="hela tiden" subtype="DAT" type="TME">
+      <token saldo.baseform="|hel|hela tiden|" stanza.baseform="hel" upos="ADJ">hela</token>
+      <token saldo.baseform="|tid|hela tiden:31|" stanza.baseform="tid" upos="NOUN">tiden</token>
+    </ne>
+    <token saldo.baseform="|kräva|" stanza.baseform="kräva" upos="VERB">kräver</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|" stanza.baseform="mångdimensionell" upos="ADJ">mångdimensionellt</token>
+    <token saldo.baseform="|" stanza.baseform="romantikbegrepp" upos="NOUN">romantikbegrepp</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <ne ex="TIMEX" name="I början av 1980-talet" subtype="DAT" type="TME">
+      <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">I</token>
+      <token saldo.baseform="|början|" stanza.baseform="början" upos="NOUN">början</token>
+      <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+      <token saldo.baseform="|1980-tal|" stanza.baseform="1980-tal" upos="NOUN">1980-talet</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|poetisk|" stanza.baseform="poetisk" upos="ADJ">poetiska</token>
+    <token saldo.baseform="|decennium|" stanza.baseform="decennium" upos="NOUN">decennium</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|sen|senast|" stanza.baseform="senast" upos="ADV">senast</token>
+    <token saldo.baseform="|återupptäcka|" stanza.baseform="återupptäcka" upos="VERB">återupptäckte</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantiken</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|utkomma|" stanza.baseform="utkomma" upos="VERB">utkom</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|nummer|" stanza.baseform="nummer" upos="NOUN">nummer</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <ne ex="ENAMEX" name="Tidskrift" subtype="WAA" type="WRK">
+      <token saldo.baseform="|tidskrift|" stanza.baseform="tidskrift" upos="NOUN">Tidskrift</token>
+    </ne>
+    <token saldo.baseform="|för|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|litteraturvetenskap|" stanza.baseform="litteraturvetenskap" upos="NOUN">litteraturvetenskap</token>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="3" upos="NUM">3</token>
+    <token saldo.baseform="|" stanza.baseform="/" upos="PUNCT">/</token>
+    <token saldo.baseform="|" stanza.baseform="83" upos="NUM">83</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|nordisk|" stanza.baseform="nordisk" upos="ADJ">nordisk</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantik</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">Den</token>
+    <token saldo.baseform="|norsk|" stanza.baseform="norsk" upos="ADJ">norske</token>
+    <token saldo.baseform="|forskare|" stanza.baseform="forskare" upos="NOUN">forskaren</token>
+    <ne ex="ENAMEX" name="Asbjørn Aarseth" subtype="HUM" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="Asbjørn" upos="PROPN">Asbjørn</token>
+      <token saldo.baseform="|" stanza.baseform="Aarseth" upos="PROPN">Aarseth</token>
+    </ne>
+    <token saldo.baseform="|likna|" stanza.baseform="likna" upos="VERB">liknade</token>
+    <token saldo.baseform="|där|" stanza.baseform="där" upos="ADV">där</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantiken</token>
+    <token saldo.baseform="|vid|" stanza.baseform="vid" upos="ADP">vid</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|grekisk|" stanza.baseform="grekisk" upos="ADJ">grekiska</token>
+    <token saldo.baseform="|mytologi|" stanza.baseform="mytologi" upos="NOUN">mytologins</token>
+    <token saldo.baseform="|" stanza.baseform="förvandlingsmästare" upos="NOUN">förvandlingsmästare</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|havsgud|" stanza.baseform="havsgud" upos="NOUN">havsguden</token>
+    <ne ex="ENAMEX" name="Proteus" subtype="MTH" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="Proteus" upos="PROPN">Proteus</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|gälla|" stanza.baseform="gälla" upos="VERB">gäller</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|hålla|hålla fast|" stanza.baseform="hålla" upos="VERB">hålla</token>
+    <token saldo.baseform="|fast|hålla fast:21|" stanza.baseform="fast" upos="PART">fast</token>
+    <token saldo.baseform="|" stanza.baseform="Proteus" upos="PROPN">Proteus</token>
+    <token saldo.baseform="|tills|" stanza.baseform="tills" upos="SCONJ">tills</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|sluta|" stanza.baseform="sluta" upos="VERB">slutar</token>
+    <token saldo.baseform="|förvandla|" stanza.baseform="förvandla" upos="VERB">förvandla</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|all|allt möjligt|" stanza.baseform="all" upos="DET">allt</token>
+    <token saldo.baseform="|möjlig|allt möjligt:30|" stanza.baseform="möjlig" upos="ADJ">möjligt</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|istället|" stanza.baseform="istället" upos="ADV">istället</token>
+    <token saldo.baseform="|börja|" stanza.baseform="börja" upos="VERB">börjar</token>
+    <token saldo.baseform="|tala|tala sanning|" stanza.baseform="tala" upos="VERB">tala</token>
+    <token saldo.baseform="|sanning|tala sanning:35|" stanza.baseform="sanning" upos="NOUN">sanning</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|vad|vad än|vad för|" stanza.baseform="vad" upos="PRON">Vad</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|kräva|krävas|" stanza.baseform="kräva" upos="VERB">krävs</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|alltså|" stanza.baseform="alltså" upos="ADV">alltså</token>
+    <token saldo.baseform="|en|en annan|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|annan|en annan:6|" stanza.baseform="annan" upos="ADJ">annan</token>
+    <token saldo.baseform="|hållning|" stanza.baseform="hållning" upos="NOUN">hållning</token>
+    <token saldo.baseform="|vad än:1|" stanza.baseform="än" upos="CONJ">än</token>
+    <ne ex="ENAMEX" name="Vennbergs" subtype="HUM" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="Vennberg" upos="PROPN">Vennbergs</token>
+    </ne>
+    <token saldo.baseform="|i|i och för sig|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|och|i och för sig:11|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|för|vad för:1|i och för sig:11|för sig|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|sig|i och för sig:11|för sig:13|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|beundransvärd|" stanza.baseform="beundransvärd" upos="ADJ">beundransvärda</token>
+    <token saldo.baseform="|" stanza.baseform="kameleontik" upos="NOUN">kameleontik</token>
+    <token saldo.baseform="|när|" stanza.baseform="när" upos="ADV">när</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|brottas|" stanza.baseform="brottas" upos="VERB">brottas</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|begrepp|" stanza.baseform="begrepp" upos="NOUN">begreppet</token>
+    <token saldo.baseform="|pessimism|" stanza.baseform="pessimism" upos="NOUN">pessimism</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|viktig|" stanza.baseform="viktig" upos="ADJ">viktiga</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|hålla|hålla fast|" stanza.baseform="hålla" upos="VERB">hålla</token>
+    <token saldo.baseform="|fast|hålla fast:28|" stanza.baseform="fast" upos="PART">fast</token>
+    <token saldo.baseform="|vid|" stanza.baseform="vid" upos="ADP">vid</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|egen|" stanza.baseform="egen" upos="ADJ">egna</token>
+    <token saldo.baseform="|fråga|" stanza.baseform="fråga" upos="NOUN">frågorna</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|locka|" stanza.baseform="locka" upos="VERB">lockas</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|förvandla|" stanza.baseform="förvandla" upos="VERB">förvandla</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|för|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|anpassa|anpassa sig|" stanza.baseform="anpassa" upos="VERB">anpassa</token>
+    <token saldo.baseform="|sig|anpassa sig:42|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|efter|" stanza.baseform="efter" upos="ADP">efter</token>
+    <token saldo.baseform="|den|" stanza.baseform="den" upos="PRON">den</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|brottas|" stanza.baseform="brottas" upos="VERB">brottas</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <ne ex="TIMEX" name="Någon gång" subtype="DAT" type="TME">
+      <token saldo.baseform="|någon|någon gång|" stanza.baseform="någon" upos="DET">Någon</token>
+      <token saldo.baseform="|gång|någon gång:1|" stanza.baseform="gång" upos="NOUN">gång</token>
+    </ne>
+    <token saldo.baseform="|få|" stanza.baseform="få" upos="VERB">får</token>
+    <token saldo.baseform="|jag|" stanza.baseform="jag" upos="PRON">jag</token>
+    <token saldo.baseform="|svår|" stanza.baseform="svårt" upos="ADV">svårt</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|följa|" stanza.baseform="följa" upos="VERB">följa</token>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngart</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|när|" stanza.baseform="när" upos="ADV">när</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|säga|" stanza.baseform="säga" upos="VERB">säger</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">Romantiken</token>
+    <token saldo.baseform="|gå|gå ut|" stanza.baseform="gå" upos="VERB">går</token>
+    <token saldo.baseform="|i|i grunden|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|grund|i grunden:18|" stanza.baseform="grund" upos="NOUN">grunden</token>
+    <token saldo.baseform="|ut|gå ut:17|" stanza.baseform="ut" upos="ADV">ut</token>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|existera|" stanza.baseform="existera" upos="VERB">existerar</token>
+    <token saldo.baseform="|någonting|" stanza.baseform="någonting" upos="PRON">någonting</token>
+    <token saldo.baseform="|annan|" stanza.baseform="annat" upos="PRON">annat</token>
+    <token saldo.baseform="|" stanza.baseform="än" upos="CONJ">än</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|materiell|" stanza.baseform="materiellt" upos="ADV">materiellt</token>
+    <token saldo.baseform="|jordisk|" stanza.baseform="jordisk" upos="ADJ">jordiska</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|men|" stanza.baseform="men" upos="CONJ">Men</token>
+    <token saldo.baseform="|vad|" stanza.baseform="vad" upos="PRON">vad</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|ändå|" stanza.baseform="ändå" upos="ADV">ändå</token>
+    <token saldo.baseform="|i|i längden|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|längd|i längden:37|" stanza.baseform="längd" upos="NOUN">längden</token>
+    <token saldo.baseform="|framtona|" stanza.baseform="framtona" upos="VERB">framtonar</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="PUNCT">–</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|denna|" stanza.baseform="detta" upos="PRON">detta</token>
+    <token saldo.baseform="|sammanfatta|" stanza.baseform="sammanfatta" upos="VERB">sammanfattar</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|själv|" stanza.baseform="själv" upos="ADJ">själv</token>
+    <token saldo.baseform="|också|" stanza.baseform="också" upos="ADV">också</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|slut|" stanza.baseform="slut" upos="NOUN">slutet</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="PUNCT">–</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|" stanza.baseform="50-talsromantik" upos="NOUN">50-talsromantik</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|syfta|" stanza.baseform="syfta" upos="VERB">syftar</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|vare sig|" stanza.baseform="vare" upos="CONJ">vare</token>
+    <token saldo.baseform="|sig|vare sig:57|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|försoning|" stanza.baseform="försoning" upos="NOUN">försoning</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|andlig|" stanza.baseform="andlig" upos="ADJ">andlig</token>
+    <token saldo.baseform="|tröst|" stanza.baseform="tröst" upos="NOUN">tröst</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|snar|snarare|" stanza.baseform="snarare" upos="ADV">Snarare</token>
+    <token saldo.baseform="|få|" stanza.baseform="få" upos="VERB">får</token>
+    <token saldo.baseform="|vi|" stanza.baseform="vi" upos="PRON">vi</token>
+    <token saldo.baseform="|bild|" stanza.baseform="bild" upos="NOUN">bilden</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|kämpa|" stanza.baseform="kämpande" upos="VERB">kämpande</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantik</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|framför|framför allt|" stanza.baseform="framför" upos="ADP">framför</token>
+    <token saldo.baseform="|all|framför allt:10|" stanza.baseform="allt" upos="PRON">allt</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|dynamisk|" stanza.baseform="dynamisk" upos="ADJ">dynamisk</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|dualistisk|" stanza.baseform="dualistisk" upos="ADJ">dualistisk</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|revoltera|" stanza.baseform="revolterande" upos="VERB">revolterande</token>
+    <token saldo.baseform="|i|i det att|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|den|i det att:18|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|att|i det att:18|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|den|" stanza.baseform="den" upos="PRON">den</token>
+    <token saldo.baseform="|insistera|" stanza.baseform="insistera" upos="VERB">insisterar</token>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|vars|" stanza.baseform="vars" upos="DET">vars</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|man|" stanza.baseform="ens" upos="DET">ens</token>
+    <token saldo.baseform="|erfarenhet|" stanza.baseform="erfarenhet" upos="NOUN">erfarenheter</token>
+    <token saldo.baseform="|äga|" stanza.baseform="äga" upos="VERB">äger</token>
+    <token saldo.baseform="|giltighet|" stanza.baseform="giltighet" upos="NOUN">giltighet</token>
+    <token saldo.baseform="|när|" stanza.baseform="när" upos="ADV">när</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|gälla|" stanza.baseform="gälla" upos="VERB">gäller</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|säga|" stanza.baseform="säga" upos="VERB">säga</token>
+    <token saldo.baseform="|någon|" stanza.baseform="något" upos="PRON">något</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|tillvaro|" stanza.baseform="tillvaro" upos="NOUN">tillvarons</token>
+    <token saldo.baseform="|mening|" stanza.baseform="mening" upos="NOUN">mening</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|denna|" stanza.baseform="detta" upos="PRON">Detta</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|ingen|" stanza.baseform="ingen" upos="DET">ingen</token>
+    <token saldo.baseform="|överge|övergiven|" stanza.baseform="övergiven" upos="VERB">övergiven</token>
+    <token saldo.baseform="|hållning|" stanza.baseform="hållning" upos="NOUN">hållning</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|bortsett från|" stanza.baseform="bortsett" upos="ADV">Bortsett</token>
+    <token saldo.baseform="|från|bortsett från:1|" stanza.baseform="från" upos="ADP">från</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|både och|" stanza.baseform="både" upos="CONJ">både</token>
+    <ne ex="ENAMEX" name="Lasse Söderberg" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Lasse|" stanza.baseform="Lasse" upos="PROPN">Lasse</token>
+      <token saldo.baseform="|Söderberg|" stanza.baseform="Söderberg" upos="PROPN">Söderberg</token>
+    </ne>
+    <token saldo.baseform="|och|både och:4|" stanza.baseform="och" upos="CONJ">och</token>
+    <ne ex="ENAMEX" name="Birgitta Stenberg" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Birgitta|" stanza.baseform="Birgitta" upos="PROPN">Birgitta</token>
+      <token saldo.baseform="|Stenberg|" stanza.baseform="Stenberg" upos="PROPN">Stenberg</token>
+    </ne>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|full|" stanza.baseform="fullt" upos="ADV">fullt</token>
+    <token saldo.baseform="|verksam|" stanza.baseform="verksam" upos="ADJ">verksamma</token>
+    <ne ex="TIMEX" name="idag" subtype="DAT" type="TME">
+      <token saldo.baseform="|idag|" stanza.baseform="idag" upos="ADV">idag</token>
+    </ne>
+    <token saldo.baseform="|finna|finnas|" stanza.baseform="finnas" upos="VERB">finns</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|ända|" stanza.baseform="ända" upos="ADV">ända</token>
+    <token saldo.baseform="|in|in i|" stanza.baseform="in" upos="ADV">in</token>
+    <token saldo.baseform="|i|in i:17|" stanza.baseform="i" upos="ADP">i</token>
+    <ne ex="TIMEX" name="nuet" subtype="DAT" type="TME">
+      <token saldo.baseform="|nu|" stanza.baseform="nu" upos="NOUN">nuet</token>
+    </ne>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|obruten|" stanza.baseform="obruten" upos="ADJ">obruten</token>
+    <token saldo.baseform="|romantisk|" stanza.baseform="romantisk" upos="ADJ">romantisk</token>
+    <token saldo.baseform="|" stanza.baseform="traditionslinje" upos="NOUN">traditionslinje</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svensk</token>
+    <token saldo.baseform="|poesi|" stanza.baseform="poesi" upos="NOUN">poesi</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <ne ex="ENAMEX" name="Bengt Emil Johnson" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Bengt|" stanza.baseform="Bengt" upos="PROPN">Bengt</token>
+      <token saldo.baseform="|Emil|" stanza.baseform="Emil" upos="PROPN">Emil</token>
+      <token saldo.baseform="|Johnson|" stanza.baseform="Johnson" upos="PROPN">Johnson</token>
+    </ne>
+    <token saldo.baseform="|höra|" stanza.baseform="höra" upos="VERB">hör</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|skara|" stanza.baseform="skara" upos="NOUN">skara</token>
+    <token saldo.baseform="|" stanza.baseform="konkretist" upos="NOUN">konkretister</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|vänta|" stanza.baseform="vänta" upos="VERB">väntar</token>
+    <token saldo.baseform="|bakom|" stanza.baseform="bakom" upos="ADP">bakom</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|metamorf|" stanza.baseform="metamorfa" upos="ADJ">metamorfa</token>
+    <token saldo.baseform="|50-tal|" stanza.baseform="50-tal" upos="NOUN">50-talets</token>
+    <token saldo.baseform="|hörn|" stanza.baseform="hörn" upos="NOUN">hörn</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|men|" stanza.baseform="men" upos="CONJ">men</token>
+    <token saldo.baseform="|han|" stanza.baseform="hans" upos="DET">hans</token>
+    <token saldo.baseform="|förhållande|" stanza.baseform="förhållande" upos="NOUN">förhållande</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantiken</token>
+    <token saldo.baseform="|ha|" stanza.baseform="ha" upos="VERB">har</token>
+    <token saldo.baseform="|alltid|" stanza.baseform="alltid" upos="ADV">alltid</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">varit</token>
+    <token saldo.baseform="|intensiv|" stanza.baseform="intensiv" upos="ADJ">intensivt</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">Han</token>
+    <token saldo.baseform="|avsluta|" stanza.baseform="avsluta" upos="VERB">avslutar</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sin" upos="DET">sitt</token>
+    <token saldo.baseform="|förord|" stanza.baseform="förord" upos="NOUN">förord</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <ne ex="ENAMEX" name="Paul Anderssons" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Paul|" stanza.baseform="Paul" upos="PROPN">Paul</token>
+      <token saldo.baseform="|Andersson|" stanza.baseform="Andersson" upos="PROPN">Anderssons</token>
+    </ne>
+    <token saldo.baseform="|samla|samlad|" stanza.baseform="samlad" upos="VERB">samlade</token>
+    <token saldo.baseform="|dikt|" stanza.baseform="dikt" upos="NOUN">dikter</token>
+    <token saldo.baseform="|så|så här|" stanza.baseform="så" upos="ADV">så</token>
+    <token saldo.baseform="|här|så här:10|" stanza.baseform="här" upos="ADV">här</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|språk|" stanza.baseform="språk" upos="NOUN">Språket</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="PUNCT">–</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|inse|" stanza.baseform="inse" upos="VERB">insåg</token>
+    <token saldo.baseform="|diktare|" stanza.baseform="diktare" upos="NOUN">diktaren</token>
+    <token saldo.baseform="|redan|" stanza.baseform="redan" upos="ADV">redan</token>
+    <token saldo.baseform="|då|" stanza.baseform="då" upos="ADV">då</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|skriva|" stanza.baseform="skriva" upos="VERB">skrev</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|kommentar|" stanza.baseform="kommentar" upos="NOUN">kommentar</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sin" upos="DET">sin</token>
+    <token saldo.baseform="|elegi|" stanza.baseform="elegi" upos="NOUN">Elegi</token>
+    <token saldo.baseform="|" stanza.baseform="vara" upos="VERB">’</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|alltför|" stanza.baseform="alltför" upos="ADV">alltför</token>
+    <token saldo.baseform="|bräcklig|" stanza.baseform="bräcklig" upos="ADJ">bräckligt</token>
+    <token saldo.baseform="|instrument|" stanza.baseform="instrument" upos="NOUN">instrument</token>
+    <token saldo.baseform="|" stanza.baseform="’" upos="NOUN">’</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|men|" stanza.baseform="men" upos="CONJ">Men</token>
+    <token saldo.baseform="|han|" stanza.baseform="hans" upos="DET">hans</token>
+    <token saldo.baseform="|förhoppning|" stanza.baseform="förhoppning" upos="NOUN">förhoppning</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|" stanza.baseform="vara" upos="VERB">’</token>
+    <token saldo.baseform="|någon|" stanza.baseform="någon" upos="DET">någon</token>
+    <token saldo.baseform="|annan|" stanza.baseform="annan" upos="ADJ">annan</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|subjektiv|" stanza.baseform="subjektiv" upos="ADJ">subjektiva</token>
+    <token saldo.baseform="|rus|" stanza.baseform="rus" upos="NOUN">ruset</token>
+    <token saldo.baseform="|skola|" stanza.baseform="ska" upos="VERB">skall</token>
+    <token saldo.baseform="|finna|" stanza.baseform="finna" upos="VERB">finna</token>
+    <token saldo.baseform="|någon|" stanza.baseform="något" upos="PRON">något</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|människa|" stanza.baseform="människa" upos="NOUN">människans</token>
+    <token saldo.baseform="|gemensam|" stanza.baseform="gemensam" upos="ADJ">gemensamma</token>
+    <token saldo.baseform="|villkor|" stanza.baseform="villkor" upos="NOUN">villkor</token>
+    <token saldo.baseform="|" stanza.baseform="’" upos="NOUN">’</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">var</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|ogrundad|" stanza.baseform="ogrundad" upos="VERB">ogrundad</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">Det</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|sann|" stanza.baseform="sann" upos="ADJ">sant</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|kontrast|" stanza.baseform="kontrast" upos="NOUN">kontrasten</token>
+    <token saldo.baseform="|mot|" stanza.baseform="mot" upos="ADP">mot</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|omge|" stanza.baseform="omgivande" upos="VERB">omgivande</token>
+    <token saldo.baseform="|samhälle|" stanza.baseform="samhälle" upos="NOUN">samhället</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="ADV">–</token>
+    <token saldo.baseform="|fientlig|" stanza.baseform="fientligt" upos="ADJ">fientligt</token>
+    <token saldo.baseform="|som|" stanza.baseform="som" upos="ADV">som</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">var</token>
+    <token saldo.baseform="|mot|" stanza.baseform="mot" upos="ADP">mot</token>
+    <token saldo.baseform="|både och|" stanza.baseform="både" upos="CONJ">både</token>
+    <token saldo.baseform="|individualism|" stanza.baseform="individualism" upos="NOUN">individualism</token>
+    <token saldo.baseform="|och|både och:43|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|all|" stanza.baseform="all" upos="DET">all</token>
+    <token saldo.baseform="|irrationell|" stanza.baseform="irrationellt" upos="ADV">irrationellt</token>
+    <token saldo.baseform="|färga|färgad|" stanza.baseform="färgad" upos="VERB">färgad</token>
+    <token saldo.baseform="|universalitet|" stanza.baseform="universalitet" upos="NOUN">universalitet</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="PUNCT">–</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|göra|" stanza.baseform="göra" upos="VERB">gör</token>
+    <token saldo.baseform="|förbindelse|" stanza.baseform="förbindelse" upos="NOUN">förbindelsen</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|subjektivitet|" stanza.baseform="subjektivitet" upos="NOUN">subjektiviteten</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|dikt|" stanza.baseform="dikt" upos="NOUN">dikten</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|allmänmänsklig|" stanza.baseform="allmänmänsklig" upos="ADJ">allmänmänskliga</token>
+    <token saldo.baseform="|villkor|" stanza.baseform="villkor" upos="NOUN">villkoren</token>
+    <token saldo.baseform="|så|" stanza.baseform="så" upos="ADV">så</token>
+    <token saldo.baseform="|tydlig|" stanza.baseform="tydlig" upos="ADJ">tydlig</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|man|" stanza.baseform="en" upos="PRON">En</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|" stanza.baseform="metamorfospoet" upos="NOUN">Metamorfospoeterna</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <ne ex="ENAMEX" name="Gertrud Knepler" subtype="HUM" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="Gertrud" upos="PROPN">Gertrud</token>
+      <token saldo.baseform="|" stanza.baseform="Knepler" upos="PROPN">Knepler</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|fånga|" stanza.baseform="fånga" upos="VERB">fångade</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|någon|" stanza.baseform="någon" upos="DET">några</token>
+    <token saldo.baseform="|rad|" stanza.baseform="rad" upos="NOUN">rader</token>
+    <token saldo.baseform="|vad|vad för|" stanza.baseform="vad" upos="PRON">vad</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|kunna|" stanza.baseform="kunna" upos="VERB">kunde</token>
+    <token saldo.baseform="|kalla|" stanza.baseform="kalla" upos="VERB">kalla</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|undansnilla|" stanza.baseform="undansnillad" upos="VERB">undansnillade</token>
+    <token saldo.baseform="|börda|" stanza.baseform="bördans" upos="NOUN">bördans</token>
+    <token saldo.baseform="|problematik|" stanza.baseform="problematik" upos="NOUN">problematik</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|barn|" stanza.baseform="barn" upos="NOUN">Barnet</token>
+    <token saldo.baseform="|göra|" stanza.baseform="göra" upos="VERB">gör</token>
+    <token saldo.baseform="|hög|" stanza.baseform="hög" upos="NOUN">högar</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|sand|" stanza.baseform="sand" upos="NOUN">sanden</token>
+    <token saldo.baseform="|" stanza.baseform="/" upos="PUNCT">/</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">Den</token>
+    <token saldo.baseform="|vuxen|" stanza.baseform="vuxen" upos="ADJ">vuxne</token>
+    <token saldo.baseform="|ställa|" stanza.baseform="ställa" upos="VERB">ställer</token>
+    <token saldo.baseform="|värld|" stanza.baseform="värld" upos="NOUN">världen</token>
+    <token saldo.baseform="|full|" stanza.baseform="full" upos="ADJ">full</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|mätinstrument|" stanza.baseform="mätinstrument" upos="NOUN">mätinstrument</token>
+    <token saldo.baseform="|" stanza.baseform="/" upos="PUNCT">/</token>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|ryttare|" stanza.baseform="ryttare" upos="NOUN">ryttaren</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|berättelse|" stanza.baseform="berättelse" upos="NOUN">berättelsen</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|spänna|" stanza.baseform="spänna" upos="VERB">spänner</token>
+    <token saldo.baseform="|säck|" stanza.baseform="säck" upos="NOUN">säcken</token>
+    <token saldo.baseform="|" stanza.baseform="/" upos="PUNCT">/</token>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|sig|" stanza.baseform="sin" upos="DET">sin</token>
+    <token saldo.baseform="|egen|" stanza.baseform="egen" upos="ADJ">egen</token>
+    <token saldo.baseform="|rygg|" stanza.baseform="rygg" upos="NOUN">rygg</token>
+    <token saldo.baseform="|" stanza.baseform="/" upos="PUNCT">/</token>
+    <token saldo.baseform="|för|vad för:12|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|lätta|" stanza.baseform="lätta" upos="VERB">lätta</token>
+    <token saldo.baseform="|h|" stanza.baseform="h" upos="NOUN">h</token>
+    <token saldo.baseform="|" stanza.baseform="vara" upos="PROPN">ä</token>
+    <token saldo.baseform="|s|" stanza.baseform="s" upos="NOUN">s</token>
+    <token saldo.baseform="|" stanza.baseform="t" upos="PROPN">t</token>
+    <token saldo.baseform="|" stanza.baseform="e" upos="PROPN">e</token>
+    <token saldo.baseform="|" stanza.baseform="n" upos="PROPN">n</token>
+    <token saldo.baseform="|s|" stanza.baseform="s" upos="NOUN">s</token>
+    <token saldo.baseform="|börda|" stanza.baseform="börda" upos="NOUN">börda</token>
+    <token saldo.baseform="|" stanza.baseform="!" upos="PUNCT">!</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">I</token>
+    <ne ex="ENAMEX" name="Paul Anderssons" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Paul|" stanza.baseform="Paul" upos="PROPN">Paul</token>
+      <token saldo.baseform="|Andersson|" stanza.baseform="Andersson" upos="PROPN">Anderssons</token>
+    </ne>
+    <token saldo.baseform="|berömd|berömma|" stanza.baseform="berömd" upos="VERB">berömda</token>
+    <token saldo.baseform="|elegi|" stanza.baseform="elegi" upos="NOUN">Elegi</token>
+    <token saldo.baseform="|läsa|" stanza.baseform="läsa" upos="VERB">läser</token>
+    <token saldo.baseform="|vi|" stanza.baseform="vi" upos="PRON">vi</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|" stanza.baseform="…" upos="PUNCT">…</token>
+    <token saldo.baseform="|vila|" stanza.baseform="vila" upos="NOUN">vilan</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|jag|" stanza.baseform="jag" upos="PRON">jag</token>
+    <token saldo.baseform="|söka|" stanza.baseform="söka" upos="VERB">sökte</token>
+    <ne ex="TIMEX" name="nyss" subtype="DAT" type="TME">
+      <token saldo.baseform="|nyss|" stanza.baseform="nyss" upos="ADV">nyss</token>
+    </ne>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|förgången|" stanza.baseform="förgången" upos="ADJ">förgångna</token>
+    <token saldo.baseform="|bära|" stanza.baseform="bära" upos="VERB">bär</token>
+    <token saldo.baseform="|oupplöslig|" stanza.baseform="oupplösligt" upos="ADV">oupplösligt</token>
+    <token saldo.baseform="|möda|" stanza.baseform="möda" upos="NOUN">mödan</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|den|" stanza.baseform="den" upos="PRON">den</token>
+    <token saldo.baseform="|stäcka|" stanza.baseform="stäcka" upos="VERB">stäckt</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|dubbla|" stanza.baseform="dubbla" upos="VERB">dubblar</token>
+    <token saldo.baseform="|så|" stanza.baseform="så" upos="ADV">så</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|börda|" stanza.baseform="börda" upos="NOUN">börda</token>
+    <token saldo.baseform="|jag|" stanza.baseform="jag" upos="PRON">jag</token>
+    <token saldo.baseform="|fåfäng|" stanza.baseform="fåfäng" upos="ADV">fåfängt</token>
+    <token saldo.baseform="|söka|" stanza.baseform="söka" upos="VERB">sökt</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|lasta|lasta av|" stanza.baseform="lasta" upos="VERB">lasta</token>
+    <token saldo.baseform="|av|lasta av:33|" stanza.baseform="av" upos="PART">av</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|nej|" stanza.baseform="nej" upos="INTJ">Nej</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|påminna|" stanza.baseform="påminna" upos="VERB">påminn</token>
+    <token saldo.baseform="|jag|" stanza.baseform="jag" upos="PRON">mig</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|" stanza.baseform="levande" upos="ADJ">levandes</token>
+    <token saldo.baseform="|antal|" stanza.baseform="antal" upos="NOUN">antal</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|mängd|" stanza.baseform="mängd" upos="NOUN">mängden</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|" stanza.baseform="eldblandad" upos="VERB">eldblandat</token>
+    <token saldo.baseform="|stoft|" stanza.baseform="stoft" upos="NOUN">stoft</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|virvla|" stanza.baseform="virvla" upos="VERB">virvlar</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|timme|" stanza.baseform="timme" upos="NOUN">timmarnas</token>
+    <token saldo.baseform="|bana|" stanza.baseform="bana" upos="NOUN">banor</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|man|" stanza.baseform="en" upos="PRON">En</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngarts</token>
+    <token saldo.baseform="|få|" stanza.baseform="få" upos="ADJ">få</token>
+    <token saldo.baseform="|uttala|" stanza.baseform="uttala" upos="VERB">uttalat</token>
+    <token saldo.baseform="|åberopa|" stanza.baseform="åberopad" upos="VERB">åberopade</token>
+    <token saldo.baseform="|teoretisk|" stanza.baseform="teoretisk" upos="ADJ">teoretiska</token>
+    <token saldo.baseform="|inspirationskälla|" stanza.baseform="inspirationskälla" upos="NOUN">inspirationskällor</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|filosof|" stanza.baseform="filosof" upos="NOUN">filosofen</token>
+    <ne ex="ENAMEX" name="Jacques Rancière" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Jacques|" stanza.baseform="Jacques" upos="PROPN">Jacques</token>
+      <token saldo.baseform="|" stanza.baseform="Rancière" upos="PROPN">Rancière</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|denna|" stanza.baseform="dennes" upos="DET">Dennes</token>
+    <token saldo.baseform="|tänkande|" stanza.baseform="tänkande" upos="NOUN">tänkande</token>
+    <token saldo.baseform="|kring|" stanza.baseform="kring" upos="ADP">kring</token>
+    <token saldo.baseform="|litteratur|" stanza.baseform="litteratur" upos="NOUN">litteraturens</token>
+    <token saldo.baseform="|politisk|" stanza.baseform="politisk" upos="ADJ">politiska</token>
+    <token saldo.baseform="|kraft|" stanza.baseform="kraft" upos="NOUN">kraft</token>
+    <token saldo.baseform="|komplettera|" stanza.baseform="komplettera" upos="VERB">kompletterar</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|komplicera|" stanza.baseform="komplicera" upos="VERB">komplicerar</token>
+    <token saldo.baseform="|gängse|" stanza.baseform="gängse" upos="ADJ">gängse</token>
+    <token saldo.baseform="|" stanza.baseform="ideé" upos="NOUN">ideér</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|" stanza.baseform="samhällsengagerad" upos="VERB">samhällsengagerade</token>
+    <token saldo.baseform="|litteratur|" stanza.baseform="litteratur" upos="NOUN">litteraturen</token>
+    <token saldo.baseform="|både och|" stanza.baseform="både" upos="CONJ">både</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|form|" stanza.baseform="form" upos="NOUN">form</token>
+    <token saldo.baseform="|och|både och:17|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|innehåll|" stanza.baseform="innehåll" upos="NOUN">innehåll</token>
+    <token saldo.baseform="|måste|" stanza.baseform="måste" upos="VERB">måste</token>
+    <token saldo.baseform="|kugga|" stanza.baseform="kugga" upos="VERB">kugga</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|politisk|" stanza.baseform="politisk" upos="ADJ">politiska</token>
+    <token saldo.baseform="|frågeställning|" stanza.baseform="frågeställning" upos="NOUN">frågeställningarna</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="Rancière" upos="PROPN">Rancière</token>
+    <token saldo.baseform="|förkasta|" stanza.baseform="förkasta" upos="VERB">förkastar</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|hel|helt|" stanza.baseform="helt" upos="ADV">helt</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|formel|" stanza.baseform="formel" upos="NOUN">formeln</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|men|" stanza.baseform="men" upos="CONJ">men</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|tillföra|" stanza.baseform="tillföra" upos="VERB">tillför</token>
+    <token saldo.baseform="|tank|tanke|" stanza.baseform="tanke" upos="NOUN">tanken</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|ickepolitisk|" stanza.baseform="ickepolitisk" upos="ADJ">ickepolitiska</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|absolut|" stanza.baseform="absolut" upos="ADV">absolut</token>
+    <token saldo.baseform="|onyttig|" stanza.baseform="onyttig" upos="ADJ">onyttiga</token>
+    <token saldo.baseform="|litteratur|" stanza.baseform="litteratur" upos="NOUN">litteraturens</token>
+    <token saldo.baseform="|stor|" stanza.baseform="stor" upos="ADJ">stora</token>
+    <token saldo.baseform="|politisk|" stanza.baseform="politisk" upos="ADJ">politiska</token>
+    <token saldo.baseform="|betydelse|" stanza.baseform="betydelse" upos="NOUN">betydelse</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|sån|" stanza.baseform="sådan" upos="ADJ">sådan</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|ickepolitisk|" stanza.baseform="ickepolitisk" upos="ADJ">Ickepolitisk</token>
+    <token saldo.baseform="|behöva|" stanza.baseform="behöva" upos="VERB">behöver</token>
+    <token saldo.baseform="|då|" stanza.baseform="då" upos="ADV">då</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|betyda|" stanza.baseform="betyda" upos="VERB">betyda</token>
+    <token saldo.baseform="|politisk|" stanza.baseform="politiskt" upos="ADV">politiskt</token>
+    <token saldo.baseform="|indolent|" stanza.baseform="indolent" upos="ADJ">indolent</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|feg|" stanza.baseform="feg" upos="ADJ">feg</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|" stanza.baseform="lat" upos="NOUN">lat</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|tvärtom|" stanza.baseform="tvärtom" upos="ADV">Tvärtom</token>
+    <token saldo.baseform="|kunna|" stanza.baseform="kunna" upos="VERB">kan</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|möjlig|" stanza.baseform="möjlig" upos="ADJ">möjligas</token>
+    <token saldo.baseform="|konst|" stanza.baseform="konst" upos="NOUN">konst</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|reflektera|" stanza.baseform="reflektera" upos="VERB">reflekteras</token>
+    <token saldo.baseform="|differentiera|" stanza.baseform="differentierad" upos="VERB">differentierad</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|omöjlig|" stanza.baseform="omöjlig" upos="ADJ">omöjligas</token>
+    <token saldo.baseform="|konst|" stanza.baseform="konst" upos="NOUN">konst</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|rubrik|" stanza.baseform="rubrik" upos="NOUN">rubriken</token>
+    <token saldo.baseform="|lyda|" stanza.baseform="lyda" upos="VERB">lyder</token>
+    <token saldo.baseform="|till|" stanza.baseform="till" upos="ADP">till</token>
+    <token saldo.baseform="|kapitel|" stanza.baseform="kapitel" upos="NOUN">kapitlet</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <ne ex="ENAMEX" name="Svante Foerster" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Svante|" stanza.baseform="Svante" upos="PROPN">Svante</token>
+      <token saldo.baseform="|" stanza.baseform="Foerster" upos="PROPN">Foerster</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|läsare|" stanza.baseform="läsare" upos="NOUN">Läsaren</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <ne ex="ENAMEX" name="Paul Andersson" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Paul|" stanza.baseform="Paul" upos="PROPN">Paul</token>
+      <token saldo.baseform="|Andersson|" stanza.baseform="Andersson" upos="PROPN">Andersson</token>
+    </ne>
+    <token saldo.baseform="|få|" stanza.baseform="få" upos="VERB">får</token>
+    <token saldo.baseform="|hänga|hänga med|" stanza.baseform="hänga" upos="VERB">hänga</token>
+    <token saldo.baseform="|med|hänga med:6|" stanza.baseform="med" upos="PART">med</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|häftig|" stanza.baseform="häftig" upos="ADJ">häftig</token>
+    <token saldo.baseform="|rörelse|" stanza.baseform="rörelse" upos="NOUN">rörelse</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|" stanza.baseform="synsträng" upos="ADJ">synsträng</token>
+    <token saldo.baseform="|iakttagelse|" stanza.baseform="iakttagelse" upos="NOUN">iakttagelse</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|" stanza.baseform="förnuftstrotsande" upos="NOUN">förnuftstrotsande</token>
+    <token saldo.baseform="|" stanza.baseform="fantastik" upos="ADJ">fantastik</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">Man</token>
+    <token saldo.baseform="|bli|" stanza.baseform="bli" upos="VERB">blir</token>
+    <token saldo.baseform="|röra|rörd|" stanza.baseform="rörd" upos="VERB">rörd</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|denna|" stanza.baseform="denna" upos="DET">denna</token>
+    <token saldo.baseform="|fluktuera|" stanza.baseform="fluktuerande" upos="VERB">fluktuerande</token>
+    <token saldo.baseform="|" stanza.baseform="omöjlighetskonst" upos="NOUN">omöjlighetskonst</token>
+    <token saldo.baseform="|eftersom|" stanza.baseform="eftersom" upos="SCONJ">eftersom</token>
+    <token saldo.baseform="|den|" stanza.baseform="den" upos="PRON">den</token>
+    <token saldo.baseform="|direkt|" stanza.baseform="direkt" upos="ADV">direkt</token>
+    <token saldo.baseform="|gestalta|" stanza.baseform="gestalta" upos="VERB">gestaltar</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|viktig|" stanza.baseform="viktig" upos="ADJ">viktigt</token>
+    <token saldo.baseform="|faktum|" stanza.baseform="faktum" upos="NOUN">faktum</token>
+    <token saldo.baseform="|när|" stanza.baseform="när" upos="ADV">när</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|gälla|" stanza.baseform="gälla" upos="VERB">gäller</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|romantisk|" stanza.baseform="romantisk" upos="ADJ">romantiska</token>
+    <token saldo.baseform="|litteratur|" stanza.baseform="litteratur" upos="NOUN">litteraturen</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|" stanza.baseform="samhällsengagerad" upos="VERB">samhällsengagerad</token>
+    <token saldo.baseform="|yttring|" stanza.baseform="yttring" upos="NOUN">yttring</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|nämligen|" stanza.baseform="nämligen" upos="ADV">nämligen</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|dikt|" stanza.baseform="dikt" upos="NOUN">diktens</token>
+    <token saldo.baseform="|skapare|" stanza.baseform="skapare" upos="NOUN">skapare</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|nöjd|" stanza.baseform="nöjd" upos="VERB">nöjd</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|vare sig|" stanza.baseform="vare" upos="CONJ">vare</token>
+    <token saldo.baseform="|sig|vare sig:33|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|rationalitet|" stanza.baseform="rationalitet" upos="NOUN">rationaliteten</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|" stanza.baseform="irrationalitet" upos="NOUN">irrationaliteten</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|men|" stanza.baseform="men" upos="CONJ">Men</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|heller|" stanza.baseform="heller" upos="ADV">heller</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|nöjd|" stanza.baseform="nöjd" upos="VERB">nöjd</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|någon|" stanza.baseform="någon" upos="DET">någon</token>
+    <token saldo.baseform="|kompromiss|" stanza.baseform="kompromiss" upos="NOUN">kompromiss</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|de|" stanza.baseform="de" upos="PRON">dem</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|denna|" stanza.baseform="detta" upos="PRON">Detta</token>
+    <token saldo.baseform="|strid|" stanza.baseform="strid" upos="NOUN">stridens</token>
+    <token saldo.baseform="|predikament|" stanza.baseform="predikament" upos="NOUN">predikament</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|avvisa|" stanza.baseform="avvisa" upos="VERB">avvisa</token>
+    <token saldo.baseform="|såväl som|" stanza.baseform="såväl" upos="CONJ">såväl</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|renodla|" stanza.baseform="renodlad" upos="VERB">renodlade</token>
+    <token saldo.baseform="|alternativ|" stanza.baseform="alternativ" upos="NOUN">alternativen</token>
+    <token saldo.baseform="|såväl som:7|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|" stanza.baseform="varje" upos="DET">varje</token>
+    <token saldo.baseform="|kompromiss|" stanza.baseform="kompromiss" upos="NOUN">kompromiss</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|de|" stanza.baseform="de" upos="PRON">dem</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantikens</token>
+    <token saldo.baseform="|väsen|" stanza.baseform="väsen" upos="NOUN">väsen</token>
+    <token saldo.baseform="|enligt|" stanza.baseform="enligt" upos="ADP">enligt</token>
+    <ne ex="ENAMEX" name="Asbjørn Aarseth" subtype="HUM" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="Asbjørn" upos="PROPN">Asbjørn</token>
+      <token saldo.baseform="|" stanza.baseform="Aarseth" upos="PROPN">Aarseth</token>
+    </ne>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|forskare|" stanza.baseform="forskare" upos="NOUN">forskare</token>
+    <token saldo.baseform="|han|" stanza.baseform="han" upos="PRON">han</token>
+    <token saldo.baseform="|stödja|stödja sig|" stanza.baseform="stödja" upos="VERB">stödjer</token>
+    <token saldo.baseform="|sig|stödja sig:27|" stanza.baseform="sig" upos="PRON">sig</token>
+    <token saldo.baseform="|på|" stanza.baseform="på" upos="ADP">på</token>
+    <token saldo.baseform="|i|i sin|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|sig|i sin:30|" stanza.baseform="sin" upos="DET">sin</token>
+    <token saldo.baseform="|essä|" stanza.baseform="essä" upos="NOUN">essä</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngarts</token>
+    <token saldo.baseform="|studie|" stanza.baseform="studie" upos="NOUN">studie</token>
+    <token saldo.baseform="|göra|" stanza.baseform="göra" upos="VERB">gör</token>
+    <token saldo.baseform="|denna|" stanza.baseform="denna" upos="DET">denna</token>
+    <token saldo.baseform="|otillfredsställelse|" stanza.baseform="otillfredsställelse" upos="NOUN">otillfredsställelsens</token>
+    <token saldo.baseform="|dynamik|" stanza.baseform="dynamik" upos="NOUN">dynamik</token>
+    <token saldo.baseform="|synlig|" stanza.baseform="synlig" upos="ADJ">synlig</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|all|" stanza.baseform="all" upos="DET">alla</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|fem|" stanza.baseform="fem" upos="NUM">fem</token>
+    <token saldo.baseform="|" stanza.baseform="författarskap" upos="NOUN">författarskapen</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|vi|" stanza.baseform="vi" upos="PRON">Vi</token>
+    <token saldo.baseform="|få|" stanza.baseform="få" upos="VERB">får</token>
+    <token saldo.baseform="|således|" stanza.baseform="således" upos="ADV">således</token>
+    <token saldo.baseform="|komma|" stanza.baseform="komma" upos="VERB">komma</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|kontakt|" stanza.baseform="kontakt" upos="NOUN">kontakt</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|en|en annan|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|annan|en annan:8|" stanza.baseform="annan" upos="ADJ">annan</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantik</token>
+    <token saldo.baseform="|" stanza.baseform="än" upos="CONJ">än</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|" stanza.baseform="gammalromantisk" upos="ADJ">gammalromantiska</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|förutsätta|" stanza.baseform="förutsätta" upos="VERB">förutsatte</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|" stanza.baseform="utomvärldslig" upos="ADJ">utomvärldslig</token>
+    <token saldo.baseform="|försoning|" stanza.baseform="försoning" upos="NOUN">försoning</token>
+    <token saldo.baseform="|genom|" stanza.baseform="genom" upos="ADP">genom</token>
+    <token saldo.baseform="|andlighet|" stanza.baseform="andlighet" upos="NOUN">andlighet</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|panteism|" stanza.baseform="panteism" upos="NOUN">panteism</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|emellertid|" stanza.baseform="emellertid" upos="ADV">Emellertid</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|denna|" stanza.baseform="denna" upos="DET">denna</token>
+    <token saldo.baseform="|kämpa|" stanza.baseform="kämpande" upos="VERB">kämpande</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|dualistisk|" stanza.baseform="dualistisk" upos="ADJ">dualistiska</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantik</token>
+    <token saldo.baseform="|inte|" stanza.baseform="inte" upos="ADV">inte</token>
+    <token saldo.baseform="|heller|" stanza.baseform="heller" upos="ADV">heller</token>
+    <token saldo.baseform="|förenlig|" stanza.baseform="förenlig" upos="ADJ">förenlig</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|" stanza.baseform="inomvärldslig" upos="ADJ">inomvärldsliga</token>
+    <token saldo.baseform="|försoning|" stanza.baseform="försoning" upos="NOUN">försoning</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|subjektivitet|" stanza.baseform="subjektivitet" upos="NOUN">subjektiviteten</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|teknologisk|" stanza.baseform="teknologisk" upos="ADJ">teknologiska</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|massmedial|" stanza.baseform="massmedial" upos="ADJ">massmediala</token>
+    <token saldo.baseform="|" stanza.baseform="meningsmaskineri" upos="NOUN">meningsmaskineriet</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|kunna|" stanza.baseform="kunna" upos="VERB">kan</token>
+    <token saldo.baseform="|möta|" stanza.baseform="möta" upos="VERB">möta</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|" stanza.baseform="gammalromantik" upos="NOUN">gammalromantikens</token>
+    <token saldo.baseform="|motsats|" stanza.baseform="motsats" upos="NOUN">motsats</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|spegelbild|" stanza.baseform="spegelbild" upos="NOUN">spegelbild</token>
+    <token saldo.baseform="|" stanza.baseform="konceptpoesin" upos="NOUN">konceptpoesin</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|inom|" stanza.baseform="inom" upos="ADP">Inom</token>
+    <token saldo.baseform="|ingen|" stanza.baseform="ingen" upos="PRON">ingen</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|" stanza.baseform="bägge" upos="DET">bägge</token>
+    <token saldo.baseform="|nämna|" stanza.baseform="nämnd" upos="VERB">nämnda</token>
+    <token saldo.baseform="|strömning|" stanza.baseform="strömning" upos="NOUN">strömningarna</token>
+    <token saldo.baseform="|göra|göra skillnad|" stanza.baseform="göra" upos="VERB">gör</token>
+    <token saldo.baseform="|individ|" stanza.baseform="individ" upos="NOUN">individens</token>
+    <token saldo.baseform="|erfarenhet|" stanza.baseform="erfarenhet" upos="NOUN">erfarenhet</token>
+    <token saldo.baseform="|någon|" stanza.baseform="någon" upos="DET">någon</token>
+    <token saldo.baseform="|stor|" stanza.baseform="stor" upos="ADJ">större</token>
+    <token saldo.baseform="|skillnad|göra skillnad:8|" stanza.baseform="skillnad" upos="NOUN">skillnad</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|därför|" stanza.baseform="därför" upos="ADV">därför</token>
+    <token saldo.baseform="|de|" stanza.baseform="de" upos="PRON">de</token>
+    <token saldo.baseform="|kunna|" stanza.baseform="kunna" upos="VERB">kan</token>
+    <token saldo.baseform="|lova|" stanza.baseform="lova" upos="VERB">lova</token>
+    <token saldo.baseform="|försoning|" stanza.baseform="försoning" upos="NOUN">försoning</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="ADP">–</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|ena|" stanza.baseform="ena" upos="ADJ">ena</token>
+    <token saldo.baseform="|" stanza.baseform="transcendent" upos="NOUN">transcendent</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|andra|" stanza.baseform="annan" upos="ADJ">andra</token>
+    <token saldo.baseform="|" stanza.baseform="immanent" upos="NOUN">immanent</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|inom|" stanza.baseform="inom" upos="ADP">Inom</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|kämpa|" stanza.baseform="kämpande" upos="VERB">kämpande</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">romantiken</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">är</token>
+    <token saldo.baseform="|individ|" stanza.baseform="individ" upos="NOUN">individens</token>
+    <token saldo.baseform="|erfarenhet|" stanza.baseform="erfarenhet" upos="NOUN">erfarenhet</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|upplevelse|" stanza.baseform="upplevelse" upos="NOUN">upplevelse</token>
+    <token saldo.baseform="|avgöra|avgörande|" stanza.baseform="avgörande" upos="VERB">avgörande</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|försoning|" stanza.baseform="försoning" upos="NOUN">försoning</token>
+    <token saldo.baseform="|omöjlig|" stanza.baseform="omöjlig" upos="ADJ">omöjlig</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">Man</token>
+    <token saldo.baseform="|kunna|" stanza.baseform="kunna" upos="VERB">kan</token>
+    <token saldo.baseform="|gärna|" stanza.baseform="gärna" upos="ADV">gärna</token>
+    <token saldo.baseform="|läsa|" stanza.baseform="läsa" upos="VERB">läsa</token>
+    <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngarts</token>
+    <token saldo.baseform="|studie|" stanza.baseform="studie" upos="NOUN">studie</token>
+    <token saldo.baseform="|parallell|" stanza.baseform="parallellt" upos="ADV">parallellt</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|någon|" stanza.baseform="någon" upos="DET">några</token>
+    <token saldo.baseform="|andra|annan|" stanza.baseform="annan" upos="ADJ">andra</token>
+    <token saldo.baseform="|ny|" stanza.baseform="ny" upos="ADJ">nyare</token>
+    <token saldo.baseform="|verk|" stanza.baseform="verk" upos="NOUN">verk</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|modern|" stanza.baseform="modern" upos="ADJ">moderna</token>
+    <token saldo.baseform="|optimism|" stanza.baseform="optimism" upos="NOUN">optimismen</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|den|" stanza.baseform="dess" upos="DET">dess</token>
+    <token saldo.baseform="|" stanza.baseform="bispringare" upos="NOUN">bispringare</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|välfärdssamhälle|" stanza.baseform="välfärdssamhälle" upos="NOUN">välfärdssamhället</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|litteraturforskare|" stanza.baseform="litteraturforskare" upos="NOUN">Litteraturforskaren</token>
+    <ne ex="ENAMEX" name="Johanna Lundström" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Johanna|" stanza.baseform="Johanna" upos="PROPN">Johanna</token>
+      <token saldo.baseform="|Lundström|" stanza.baseform="Lundström" upos="PROPN">Lundström</token>
+    </ne>
+    <token saldo.baseform="|skriva|" stanza.baseform="skriva" upos="VERB">skrev</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="terrängbeskrivning" upos="NOUN">Terrängbeskrivning</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="PUNCT">–</token>
+    <ne ex="ENAMEX" name="P O Sundman" subtype="HUM" type="PRS">
+      <token saldo.baseform="|" stanza.baseform="P" upos="PROPN">P</token>
+      <token saldo.baseform="|" stanza.baseform="O" upos="PROPN">O</token>
+      <token saldo.baseform="|Sundman|" stanza.baseform="Sundman" upos="PROPN">Sundman</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|modernitet|" stanza.baseform="modernitet" upos="NOUN">moderniteten</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|medmänniska|" stanza.baseform="medmänniska" upos="NOUN">medmänniskan</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="(" upos="PUNCT">(</token>
+    <token saldo.baseform="|" stanza.baseform="2006" upos="NUM">2006</token>
+    <token saldo.baseform="|" stanza.baseform=")" upos="PUNCT">)</token>
+    <token saldo.baseform="|om|" stanza.baseform="om" upos="ADP">om</token>
+    <token saldo.baseform="|konflikt|" stanza.baseform="konflikt" upos="NOUN">konflikten</token>
+    <token saldo.baseform="|mellan|" stanza.baseform="mellan" upos="ADP">mellan</token>
+    <token saldo.baseform="|medmänsklighet|" stanza.baseform="medmänsklighet" upos="NOUN">medmänsklighet</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|modernitet|" stanza.baseform="modernitet" upos="NOUN">modernitet</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <ne ex="TIMEX" name="50- och 60-talets" subtype="DAT" type="TME">
+      <token saldo.baseform="|" stanza.baseform="50" upos="NOUN">50-</token>
+      <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+      <token saldo.baseform="|60-tal|" stanza.baseform="60-tal" upos="NOUN">60-talets</token>
+    </ne>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|samhälle|" stanza.baseform="samhälle" upos="NOUN">samhälle</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <ne ex="TIMEX" name="Samma år" subtype="DAT" type="TME">
+      <token saldo.baseform="|samma|" stanza.baseform="samma" upos="DET">Samma</token>
+      <token saldo.baseform="|år|" stanza.baseform="år" upos="NOUN">år</token>
+    </ne>
+    <token saldo.baseform="|utge|" stanza.baseform="utge" upos="VERB">utgav</token>
+    <token saldo.baseform="|historik|historiker|" stanza.baseform="historiker" upos="NOUN">historikerna</token>
+    <ne ex="ENAMEX" name="Henrik Berggren och Lars Trägårdh" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Henrik|" stanza.baseform="Henrik" upos="PROPN">Henrik</token>
+      <token saldo.baseform="|Berggren|" stanza.baseform="Berggren" upos="PROPN">Berggren</token>
+      <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+      <token saldo.baseform="|Lars|" stanza.baseform="Lars" upos="PROPN">Lars</token>
+      <token saldo.baseform="|" stanza.baseform="Trägårdh" upos="PROPN">Trägårdh</token>
+    </ne>
+    <token saldo.baseform="|studie|" stanza.baseform="studie" upos="NOUN">studien</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">Är</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="NOUN">svensken</token>
+    <token saldo.baseform="|människa|" stanza.baseform="människa" upos="NOUN">människa</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="ADP">–</token>
+    <token saldo.baseform="|gemenskap|" stanza.baseform="gemenskap" upos="NOUN">gemenskap</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|oberoende|" stanza.baseform="oberoende" upos="NOUN">oberoende</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|modern|" stanza.baseform="modern" upos="ADJ">moderna</token>
+    <ne ex="ENAMEX" name="Sverige" subtype="PPL" type="LOC">
+      <token saldo.baseform="|Sverige|" stanza.baseform="Sverige" upos="PROPN">Sverige</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|där|" stanza.baseform="där" upos="ADV">Där</token>
+    <token saldo.baseform="|kunna|" stanza.baseform="kunna" upos="VERB">kan</token>
+    <token saldo.baseform="|man|" stanza.baseform="man" upos="PRON">man</token>
+    <token saldo.baseform="|läsa|" stanza.baseform="läsa" upos="VERB">läsa</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|pris|" stanza.baseform="pris" upos="NOUN">priset</token>
+    <token saldo.baseform="|för|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="NOUN">svenskarnas</token>
+    <token saldo.baseform="|individuell|" stanza.baseform="individuell" upos="ADJ">individuella</token>
+    <token saldo.baseform="|frihet|" stanza.baseform="frihet" upos="NOUN">frihet</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|eller|" stanza.baseform="eller" upos="CONJ">eller</token>
+    <token saldo.baseform="|för|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|de|" stanza.baseform="deras" upos="DET">deras</token>
+    <token saldo.baseform="|illusion|" stanza.baseform="illusion" upos="NOUN">illusion</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|frihet|" stanza.baseform="frihet" upos="NOUN">frihet</token>
+    <token saldo.baseform="|" stanza.baseform="–" upos="ADP">–</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|lika|" stanza.baseform="lika" upos="ADV">lika</token>
+    <token saldo.baseform="|stor|" stanza.baseform="stor" upos="ADJ">stor</token>
+    <token saldo.baseform="|upplevelse|" stanza.baseform="upplevelse" upos="NOUN">upplevelse</token>
+    <token saldo.baseform="|enligt|" stanza.baseform="enligt" upos="ADP">enligt</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|obarmhärtig|" stanza.baseform="obarmhärtig" upos="ADJ">obarmhärtige</token>
+    <ne ex="ENAMEX" name="Kafka" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Kafka|" stanza.baseform="Kafka" upos="PROPN">Kafka</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="–" upos="PROPN">–</token>
+    <token saldo.baseform="|bli|" stanza.baseform="bli" upos="VERB">blev</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|allt|" stanza.baseform="allt" upos="ADV">allt</token>
+    <token saldo.baseform="|djup|" stanza.baseform="djup" upos="ADJ">djupare</token>
+    <token saldo.baseform="|beroende|" stanza.baseform="beroende" upos="NOUN">beroende</token>
+    <token saldo.baseform="|av|" stanza.baseform="av" upos="ADP">av</token>
+    <token saldo.baseform="|stat|" stanza.baseform="stat" upos="NOUN">staten</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">en</token>
+    <token saldo.baseform="|servilitet|" stanza.baseform="servilitet" upos="NOUN">servilitet</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|med|med tiden|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|tid|med tiden:39|" stanza.baseform="tid" upos="NOUN">tiden</token>
+    <token saldo.baseform="|bli|" stanza.baseform="bli" upos="VERB">blev</token>
+    <token saldo.baseform="|internationell|" stanza.baseform="internationellt" upos="ADV">internationellt</token>
+    <token saldo.baseform="|beryktad|" stanza.baseform="beryktad" upos="VERB">beryktad</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <ne ex="ENAMEX" name="Paul Tenngarts" subtype="HUM" type="PRS">
+      <token saldo.baseform="|Paul|" stanza.baseform="Paul" upos="PROPN">Paul</token>
+      <token saldo.baseform="|" stanza.baseform="Tenngart" upos="PROPN">Tenngarts</token>
+    </ne>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|romantik|" stanza.baseform="romantik" upos="NOUN">Romantik</token>
+    <token saldo.baseform="|i|" stanza.baseform="i" upos="ADP">i</token>
+    <token saldo.baseform="|välfärdsstat|" stanza.baseform="välfärdsstat" upos="NOUN">välfärdsstaten</token>
+    <token saldo.baseform="|" stanza.baseform="”" upos="PUNCT">”</token>
+    <token saldo.baseform="|visa|" stanza.baseform="visa" upos="VERB">visar</token>
+    <token saldo.baseform="|förtjänstfull|" stanza.baseform="förtjänstfull" upos="ADV">förtjänstfullt</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="SCONJ">att</token>
+    <token saldo.baseform="|" stanza.baseform="50-talsdebutant" upos="NOUN">50-talsdebutanterna</token>
+    <token saldo.baseform="|tidig|" stanza.baseform="tidigt" upos="ADV">tidigt</token>
+    <token saldo.baseform="|se|" stanza.baseform="se" upos="VERB">såg</token>
+    <token saldo.baseform="|denna|" stanza.baseform="denna" upos="DET">denna</token>
+    <token saldo.baseform="|utveckling|" stanza.baseform="utveckling" upos="NOUN">utveckling</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|när|" stanza.baseform="när" upos="ADV">När</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|gälla|" stanza.baseform="gälla" upos="VERB">gäller</token>
+    <token saldo.baseform="|litteratur|" stanza.baseform="litteratur" upos="NOUN">litteratur</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|motstånd|" stanza.baseform="motstånd" upos="NOUN">motstånd</token>
+    <token saldo.baseform="|måste|" stanza.baseform="måste" upos="VERB">måste</token>
+    <token saldo.baseform="|" stanza.baseform="varje" upos="DET">varje</token>
+    <token saldo.baseform="|generation|" stanza.baseform="generation" upos="NOUN">generation</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">vara</token>
+    <token saldo.baseform="|vaken|" stanza.baseform="vaken" upos="ADJ">vaken</token>
+    <token saldo.baseform="|för|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|trick|" stanza.baseform="trick" upos="NOUN">tricket</token>
+    <token saldo.baseform="|med|" stanza.baseform="med" upos="ADP">med</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">den</token>
+    <token saldo.baseform="|undansnilla|" stanza.baseform="undansnillad" upos="VERB">undansnillade</token>
+    <token saldo.baseform="|börda|" stanza.baseform="börda" upos="NOUN">bördan</token>
+    <token saldo.baseform="|" stanza.baseform="," upos="PUNCT">,</token>
+    <token saldo.baseform="|nära|" stanza.baseform="nära" upos="ADV">närmare</token>
+    <token saldo.baseform="|bestämma|" stanza.baseform="bestämma" upos="VERB">bestämt</token>
+    <token saldo.baseform="|härskare|" stanza.baseform="härskare" upos="NOUN">härskarnas</token>
+    <token saldo.baseform="|försök|" stanza.baseform="försök" upos="NOUN">försök</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|överta|" stanza.baseform="överta" upos="VERB">överta</token>
+    <token saldo.baseform="|" stanza.baseform="existensfråga" upos="NOUN">existensfrågorna</token>
+    <token saldo.baseform="|från|" stanza.baseform="från" upos="ADP">från</token>
+    <token saldo.baseform="|människa|" stanza.baseform="människa" upos="NOUN">människorna</token>
+    <token saldo.baseform="|och|" stanza.baseform="och" upos="CONJ">och</token>
+    <token saldo.baseform="|därigenom|" stanza.baseform="därigenom" upos="ADV">därigenom</token>
+    <token saldo.baseform="|disciplinera|" stanza.baseform="disciplinera" upos="VERB">disciplinera</token>
+    <token saldo.baseform="|de|" stanza.baseform="de" upos="PRON">dem</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">Det</token>
+    <token saldo.baseform="|vara|" stanza.baseform="vara" upos="VERB">var</token>
+    <token saldo.baseform="|denna|" stanza.baseform="detta" upos="PRON">detta</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="PRON">som</token>
+    <token saldo.baseform="|göra|" stanza.baseform="göra" upos="VERB">gjorde</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|svensk|" stanza.baseform="svensk" upos="ADJ">svenska</token>
+    <token saldo.baseform="|recept|" stanza.baseform="recept" upos="NOUN">receptet</token>
+    <token saldo.baseform="|ohållbar|" stanza.baseform="ohållbar" upos="ADJ">ohållbart</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|att|" stanza.baseform="att" upos="PART">att</token>
+    <token saldo.baseform="|framställa|" stanza.baseform="framställa" upos="VERB">framställa</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|lösbar|" stanza.baseform="lösbar" upos="ADJ">lösbara</token>
+    <token saldo.baseform="|problem|" stanza.baseform="problem" upos="NOUN">problemens</token>
+    <token saldo.baseform="|hanterlighet|" stanza.baseform="hanterlighet" upos="NOUN">hanterlighet</token>
+    <token saldo.baseform="|" stanza.baseform="som" upos="CONJ">som</token>
+    <token saldo.baseform="|en|" stanza.baseform="en" upos="DET">ett</token>
+    <token saldo.baseform="|avgöra|avgörande|" stanza.baseform="avgörande" upos="VERB">avgörande</token>
+    <token saldo.baseform="|bevis|" stanza.baseform="bevis" upos="NOUN">bevis</token>
+    <token saldo.baseform="|för|" stanza.baseform="för" upos="ADP">för</token>
+    <token saldo.baseform="|en|" stanza.baseform="den" upos="DET">de</token>
+    <token saldo.baseform="|olösbar|" stanza.baseform="olösbar" upos="ADJ">olösbara</token>
+    <token saldo.baseform="|problem|" stanza.baseform="problem" upos="NOUN">problemens</token>
+    <token saldo.baseform="|irrelevans|" stanza.baseform="irrelevans" upos="NOUN">irrelevans</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+  <sentence>
+    <token saldo.baseform="|politik|" stanza.baseform="politik" upos="NOUN">Politiken</token>
+    <token saldo.baseform="|behöva|" stanza.baseform="behöva" upos="VERB">behöver</token>
+    <token saldo.baseform="|tvärtom|" stanza.baseform="tvärtom" upos="ADV">tvärtom</token>
+    <token saldo.baseform="|litteratur|" stanza.baseform="litteratur" upos="NOUN">litteraturen</token>
+    <token saldo.baseform="|" stanza.baseform=":" upos="PUNCT">:</token>
+    <token saldo.baseform="|den|en|" stanza.baseform="den" upos="DET">det</token>
+    <token saldo.baseform="|möjlig|" stanza.baseform="möjlig" upos="ADJ">möjligas</token>
+    <token saldo.baseform="|konst|" stanza.baseform="konst" upos="NOUN">konst</token>
+    <token saldo.baseform="|bli|bli utan|" stanza.baseform="bli" upos="VERB">blir</token>
+    <token saldo.baseform="|lätt|" stanza.baseform="lätt" upos="ADV">lätt</token>
+    <token saldo.baseform="|destruktiv|" stanza.baseform="destruktiv" upos="ADJ">destruktiv</token>
+    <token saldo.baseform="|utan|bli utan:9|" stanza.baseform="utan" upos="CONJ">utan</token>
+    <token saldo.baseform="|den|" stanza.baseform="det" upos="PRON">det</token>
+    <token saldo.baseform="|" stanza.baseform="omöjliga" upos="VERB">omöjligas</token>
+    <token saldo.baseform="|" stanza.baseform="." upos="PUNCT">.</token>
+  </sentence>
+</text>
