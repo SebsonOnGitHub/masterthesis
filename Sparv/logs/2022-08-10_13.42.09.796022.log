@@ -1,0 +1,2 @@
+2022-08-10 13:45:43,942 - sparv.modules.stanza.stanza - WARNING - Found 1 sentence exceeding the max sentence length (250). This sentence will not be annotated with dependency relations.
+2022-08-10 14:18:42,166 - sparv.modules.stanza.stanza - WARNING - Found 2 sentences exceeding the max sentence length (250). These sentences will not be annotated with dependency relations.

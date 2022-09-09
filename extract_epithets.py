@@ -14,7 +14,8 @@ def make_tree(root_name, depth, print_tree):
     node_names = []
     root_node = node(root_name, depth, None)
 
-    print(node_names)
+    #print(node_names)
+
     if print_tree:
         tree.show()
 
@@ -69,7 +70,10 @@ def get_epithet():
         if is_good_epithet:
             return name
 
-    return node_names[0]
+    if node_names is None:
+        return node_names[0]
+    else:
+        return None
 
 class node:
     def __init__(self, name, depth, parent_node):
@@ -102,8 +106,9 @@ if len(sys.argv) > 2:
         root_name = root_name.capitalize()
 
     make_tree(root_name, depth, True)
+    print(get_epithet())
 else:
-    df_phrases = pd.read_csv('obscure_phrases.csv', header = None)
+    df_phrases = pd.read_csv('obscure_phrases_suc3.csv', header = None)
     depth = 1
     save_iters = 40
 
@@ -114,7 +119,8 @@ else:
             if not any(c.isupper() for c in root_name):
                 root_name = row[0].capitalize()
 
-            make_tree(root_name, depth, True)
+            print(root_name)
+            make_tree(root_name, depth, False)
 
             if len(node_names) > 0:
                 df_phrases.at[index, 1] = get_epithet()
@@ -122,8 +128,8 @@ else:
                 df_phrases.at[index, 1] = "NaN"
 
             if (index+1) % save_iters == 0:
-                df_phrases.to_csv('obscure_phrases_with_epithets.csv', index=False, header = None)
-                print("CSV saved.")
+                df_phrases.to_csv('obscure_phrases_suc3_with_epithets.csv', index=False, header = None)
+                #print("CSV saved.")
 
-    df_phrases.to_csv('obscure_phrases_with_epithets.csv', index=False, header = None)
-    print("CSV saved.")
+    df_phrases.to_csv('obscure_phrases_suc3_with_epithets.csv', index=False, header = None)
+    #print("CSV saved.")

@@ -2,21 +2,13 @@ import xml.dom.minidom as minidom
 import pandas as pd
 
 # Settings
-file_path = "/home/sebson/Documents/Exjobb/Sparv/sparv_old_data/export/xml_pretty/"    # File path
-file_name = file_path + "text4_export.xml"                             # File path and name
+file_path = "/home/sebson/Documents/Exjobb/Sparv/export/xml_pretty/"    # File path
+file_name = file_path + "suc3_0_export.xml"                             # File path and name
 allowed_tags = ["ADJ", "NOUN", "PROPN"]                                 # Allowed upos tags
 partial_tokens = ["TME"]                                                # Which entities should include its tokens seperatly?
 compare_SALDO = True                                                    # Only allow tokens where Stanza and SALDO baseform are the same
-min_length_char = 10                                                    # Minimum number of characters in a word
-min_length_syll = 4                                                     # Minimum number of syllables
-
-# Globals
-tokens_in = 0
-
-def print_percent(tokens_out):
-    #print("Total number of tokens before: {}".format(tokens_in))
-    #print("Total number of tokens after:  {}".format(tokens_out))
-    print("Amount of tokens removed:      {}%".format(100 - int(tokens_out*100/tokens_in)))
+min_length_char = 6                                                     # Minimum number of characters in a word
+min_length_syll = 2                                                     # Minimum number of syllables
 
 def get_syll(word):
     vowels = ['a', 'e', 'i', 'o', 'u', 'y', 'å', 'ä', 'ö']
@@ -34,7 +26,6 @@ def get_syll(word):
     return num_syll
 
 def allowed_cand(token):
-    global tokens_in
     curr_tag = token.attributes['upos'].value
     curr_word = token.attributes['stanza.baseform'].value
 
@@ -43,8 +34,6 @@ def allowed_cand(token):
     if compare_SALDO and token.attributes['stanza.baseform'].value != token.attributes['saldo.baseform'].value.replace('|',''):
         return False
 
-    tokens_in += 1
-
     if len(curr_word) < min_length_char:
         return False
     if get_syll(curr_word) < min_length_syll:
@@ -52,39 +41,73 @@ def allowed_cand(token):
 
     return True
 
-def epi_cand_first_pass(file_name):
-    global tokens_in
-    file = minidom.parse(file_name)
-    tokens = file.getElementsByTagName('token') #Needs to be segment.token
+def get_decendents(root_node):
+    decendents = []
+
+    for child in root_node.childNodes:
+        if child.nodeType == minidom.Node.ELEMENT_NODE:
+            if child.tagName == 'segment.token':
+                decendents.append(child)
+            else:
+                decendents.extend(get_decendents(child))
+
+    return decendents
+
+
+def epi_cand_first_pass(tokens):
     epi_cands = []
+    obscure_count = 0
 
     for token in tokens:
-        curr_word = token.attributes['stanza.baseform'].value
+        try:
+            curr_word = token.attributes['stanza.baseform'].value
+        except KeyError:
+            continue
 
-        if token.parentNode.tagName == 'ne':
+        if token.parentNode.parentNode.tagName == 'swener.ne':
+            parent_ne = token.parentNode.parentNode
             temp_ne = ""
 
-            for child in token.parentNode.childNodes:
-                if child.nodeType == minidom.Node.ELEMENT_NODE:
-                    temp_ne += child.attributes['stanza.baseform'].value + " "
+            for decendent in get_decendents(parent_ne):
+                temp_ne += decendent.firstChild.nodeValue + " "
 
             temp_ne = temp_ne.rstrip()
 
-            if temp_ne not in epi_cands:
-                epi_cands.append(temp_ne)
-                tokens_in += 1
+            if len(temp_ne) > 2 and '\"' not in temp_ne and '\'' not in temp_ne:
+                obscure_count += 1
+                if temp_ne not in epi_cands:
+                    epi_cands.append(temp_ne)
 
-            if token.parentNode.attributes['type'].value in partial_tokens:
+            if token.parentNode.parentNode.attributes['type'].value in partial_tokens:
                 continue
 
-        if curr_word not in epi_cands and allowed_cand(token):
-            epi_cands.append(curr_word)
+        if allowed_cand(token):
+            obscure_count += 1
+            if curr_word not in epi_cands:
+                epi_cands.append(curr_word)
+
+    #print("Minimum word length:            " + str(min_length_char))
+    #print("Minimum number of syllables:    " + str(min_length_syll))
+    #print("Number of tokens:               " + str(len(tokens)))
+    #print("Number of obscure phrases:      " + str(obscure_count))
+    #print("Percentage of obscure phrases:  " + str(round(obscure_count/len(tokens), 2)*100) + "%\n")
 
     return sorted(epi_cands, key=str.casefold)
 
-epi_cands = epi_cand_first_pass(file_name)
-#print_percent(len(epi_cands))
-print(epi_cands)
+
+#file = minidom.parse(file_path + "suc3_0_export.xml")
+#tokens = file.getElementsByTagName('segment.token')
+#while min_length_syll <= 5:
+#    while min_length_char <= 14:
+#        epi_cands = epi_cand_first_pass(tokens)
+#        min_length_char += 1
+#    min_length_char = 0
+#    min_length_syll += 1
+
+file = minidom.parse(file_name)
+tokens = file.getElementsByTagName('segment.token')
+epi_cands = epi_cand_first_pass(tokens)
+#print(epi_cands)
 df = pd.DataFrame(epi_cands)
 df[1] = " "
-df.to_csv('obscure_phrases.csv', index=False, header = None)
+df.to_csv('obscure_phrases_suc3_0.csv', index=False, header = None)
